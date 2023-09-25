@@ -10,12 +10,12 @@ The goal of this list is to be as honest and objective as possible.
 
 Scout
     • Steel Slugger // "Headshot Shotgun"
-         • +733% damage bonus // Headshot will hit for about 150 to 273 ..ish.
-         • Crits on headshot
-         • Attacks pierce damage resistance effects and bonuses
-         • -0% less accurate
+        • +733% damage bonus // Headshot will hit for about 150 to 273 ..ish.
+        • Crits on headshot
+        • Attacks pierce damage resistance effects and bonuses
+        • -0% less accurate
 
-         • -90% more bullets per shot
+        • -90% more bullets per shot
     // In-game Desc:
     // "Fires high damage slugs that deal critical damage on headshots."
     // "Doink!" - Tindall
@@ -141,13 +141,13 @@ Engineer
 		  // "I want that rifle, Daddy!" - Tindall
 
 Medic
-    • Four Part Plan
+    • Four Part Plan // "Last-Resort Debuff SyringeGun"
 		 	  • +100% damage bonus // 10-18 dmg?
-				• On Hit: Jarate for 7 seconds
+			  • On Hit: Jarate for 7 seconds
 		 	  • +50% faster firing speed
 		 	  • Damage is not affected by range
 
-        • -90% clip size // Uhh, that's 4? Wait really? ok,,
+     		• -90% clip size // Uhh, that's 4? Wait really? ok,,
 			  • -88% max primary ammo on wearer // 
   			• -35% longer weapon switch
 		 // In-game Desc:
@@ -155,8 +155,27 @@ Medic
 		 // "Part five: booby trap the stalemate button!"
 
 Sniper
-    •
+    • :c
 
 Spy
-    • Maggie (Akure only)
-    • Gunman's Gait (Bloodlust only)
+    • Maggie (Akure only) // "FN | DeathDeluxe Borderland's Rapidfire Revolver"
+		 	  • +80% faster firing speed
+        • +500% more bullets per shot -- Okay honestly good detail lol
+
+		 	  • -60% damage penalty
+     		• -66% clip size
+     		• -300% less accurate
+			  • -50% max secondary ammo on wearer
+		 // In-game Desc:
+		 // "Fires six bullets in a wide spread."
+		 //	"Monty's wife don't take no guff."
+		
+    • Gunman's Gait (Bloodlust only) // "Scratched TTG Watch"
+		 	  • +50 max health on wearer
+		 	  • +10% faster move speed on wearer
+		 	  • -20% damage from ranged sources while active
+
+		 	  • +101% cloak drain rate // aaand its gone. Great.
+		 // In-game Desc:
+		 // "Grants increased health, ranged damage resistance, and movement speed, but disables cloak."
+		 // "Think you're hard, do ya?"
