@@ -9,7 +9,7 @@ At the time of writing this, these weapons were seen in..
 The goal of this list is to be as honest and objective as possible.
 
 Scout
-    • Steel Slugger // "Headshot Shotgun" -- "Scout's Dodge and Click Adventure II"
+    • Steel Slugger // "Headshot Shotgun"
          • +733% damage bonus // Headshot will hit for about 150 to 273 ..ish.
          • Crits on headshot
          • Attacks pierce damage resistance effects and bonuses
@@ -23,12 +23,12 @@ Scout
 Soldier
     • Atomic Anguish // "★ FN | Uranium Arc Nuke Launcher"
         • +100% damage bonus vs players // hits for 96 to 180 -- not including crit / rocketspec
-        • Uses reserve for primary ammo instead of clip
+        • No reload necessary
 
         • -99% clip size
         • -50% max primary ammo on wearer // Holds 10 rockets
         • -125% slower firing speed
-        • +80% damage to self // <!> This will one-shot you on full ramp-up
+        • +80% damage to self // <!> This will one-shot you on full ramp-up (Full dmg might hit for 180~)
         • -Fires an arcing rocket
     // In-game Desc:
     // "Launches high damage heavy rockets."
@@ -49,7 +49,7 @@ Soldier
         • +10° degrees random projectile deviation
     // In-game Desc:
     // "Launches a wide spread of low damage rockets that home in on the crosshair."
-    // "If you run, you'll only die tired." - Tindall
+    // "If you run, you'll only die tired." 
 
 Pyro
     • Con-man's Compressor // "FN | NeoTokyo Airblast Spam Flamethrower"
@@ -59,7 +59,7 @@ Pyro
         • -25% afterburn damage penalty // afterburn for 3 to 30
     // In-game Desc:
     // "Airblasts faster with a reduced cost but deals reduced flame damage."
-    // "We're puttin' on a clinic!" - Tindall
+    // "We're puttin' on a clinic!" 
 
 Demoman
     • Burst of Brimstone // "Weak-Rapidfire Loch'n Grenade Launcher"
@@ -82,7 +82,7 @@ Demoman
         • Grenades explode on impact
         • On Hit: Bleed for 4 seconds
         • On Hit: Slow target movement by 40% for 2s
-        • +125% Bleed damage bonus // So bleeds for 40 dmg in 4t -- yeah medics are popped
+        • +125% Bleed damage bonus // Bleeds for 40 dmg in 4t -- yeah medics are popped
 
         • -25% damage penalty    // Deals 75 to players
         • -25% max primary ammo on wearer
@@ -90,29 +90,69 @@ Demoman
         • -20% projectile speed
     // In-game Desc:
     // "Launches toxic bombs that slow enemies and deal heavy damage over time."
-    // "Smelly, smelly gas!" - Tindall
+    // "Smelly, smelly gas!"
 
 Heavy
-    • Bootleg Deflector
+    • Bootleg Deflector // "Nerfed TFBot Deflector"
         • +10% damage bonus	
         • +35% faster move speed while deployed	
         • Bullets destroy rockets and grenades in-flight. // Tier 1
 
         • -25% slower spin up time
         • -35% less accurate
-
     // In-game Desc:
     // "Destroys projectiles in a wider spread and deals slightly more damage, but spins up slower."
-	// "I hate metal!" - Tindall
+    // "I hate metal!" 
 
-    • Soviet Slammer
-    • Bludger's Barrage (Akure)
+    • Bludger's Barrage (Akure) // "FN | BomberSoul Rapid-Homing Rocket Minigun"
+			  • +100% damage bonus // Yes, that's 2x. But you don't have rocketspec on heavy, so.. 48-90
+			  • +200% damage bonus vs tank // 144-270. Quite acceptable.
+			  • +Fires a fully controllable rocket
 
+			  • -50 max health on wearer
+			  • -40% slower firing speed
+			  • -25% max primary ammo on wearer
+			  • -60% projectile speed
+			  • +10° degrees random projectile deviation
+		// In-game Desc:
+    // "Fires homing rockets in a wide spread that converge on the crosshair."
+    // "I have one question for you: EXPLOSIONS?!"
+			 
+    • Soviet Slammer // Secondary // "Very Innacurate RapidFire Auto-Shotgun"
+			 • -25% max primary ammo on wearer // Start with 24 shells
+			 • +60% faster firing speed
+			 • No reload necessary
+
+			 • -200% less accurate
+			 • -50% damage vs tanks
+		 // In-game Desc:
+		 // "Fires inaccurate shells rather quickly."
+		 // "I am 100 metres from your location and approaching rapidly." - Tindall
 Engineer
-    • Veruc
+    • Veruc // "Borderland's Rapidfire Widowmaker"
+ 	 		  • +66% damage bonus // 150 dmg pb if all connects -- you're not going to hit that
+		 	  • +70% faster firing speed
+ 			  • No reload necessary // triple-burst with 32 shells 
+
+ 			  • -25% longer weapon switch
+			  • -200% less accurate
+ 			  • -70% less bullets per shot
+		  // "Rapidly fires three bullets in a horizontal spread."
+		  // "I want that rifle, Daddy!" - Tindall
 
 Medic
     • Four Part Plan
+		 	  • +100% damage bonus // 10-18 dmg?
+				• On Hit: Jarate for 7 seconds
+		 	  • +50% faster firing speed
+		 	  • Damage is not affected by range
+
+        • -90% clip size // Uhh, that's 4? Wait really? ok,,
+			  • -88% max primary ammo on wearer // 
+  			• -35% longer weapon switch
+		 // In-game Desc:
+		 // "Rapidly fires high damage syringes that coat enemies with Jarate."
+		 // "Part five: booby trap the stalemate button!"
 
 Sniper
     •
