@@ -1,23 +1,78 @@
 Tindall' Custom Weps List.
 
-At the time of writing this, these weapons are seen in..
+At the time of writing this, these weapons were seen in..
 • Akure - Bronze and Bristle (Intermediate)
 • Akure - Gold And Grit (Advanced)
 • Akure - Diamond And Dross (Expert)
 • Bloodlust - Terminal Lucidity (Intermediate)
 
+The goal of this list is to be as honest and objective as possible.
+
 Scout
-    • Steel Slugger
+    • Steel Slugger // "Headshot Shotgun" -- "Scout's Dodge and Click Adventure II"
+         • +733% damage bonus // Headshot will hit for about 150 to 273 ..ish.
+         • Crits on headshot
+         • Attacks pierce damage resistance effects and bonuses
+         • -0% less accurate
+
+         • -90% more bullets per shot
+    // In-game Desc:
+    // "Fires high damage slugs that deal critical damage on headshots."
+    // "Doink!" - Tindall
 
 Soldier
-    • Atomic Anguish
-    • Psychopath Seeker
+    • Atomic Anguish // "★ FN | Uranium Arc Nuke Launcher"
+        • +100% damage bonus vs players // hits for 96 to 180 -- not including crit / rocketspec
+        • Uses reserve for primary ammo instead of clip
+
+        • -99% clip size
+        • -50% max primary ammo on wearer // Holds 10 rockets
+        • -125% slower firing speed
+        • +80% damage to self // <!> This will one-shot you on full ramp-up
+        • -Fires an arcing rocket
+    // In-game Desc:
+    // "Launches high damage heavy rockets."
+    // "This was not a good idea at any point in time." - Tindall
+
+    • Psychopath Seeker // "Controllable Weak-Barrage Homing Launcher"
+        • +35% faster firing speed
+        • +50% clip size // Starts with 10 clip that you can spam
+        • +50% max clip primary ammo on wearer 
+        • +Fires a fully controllable rocket
+        • This weapon reloads its entire clip at once 
+
+        • -50% damage penalty // Hits for 45-56 -- Ouch
+        • -65% slower firing speed
+        • -25% explosion radius
+        • -200% slower reload speed // Forced 2.76s reload, can't max this
+        • -65% projectile speed // similar to charged-crit soldier
+        • +10° degrees random projectile deviation
+    // In-game Desc:
+    // "Launches a wide spread of low damage rockets that home in on the crosshair."
+    // "If you run, you'll only die tired." - Tindall
+
 
 Pyro
-    • Con-man's Compressor
+    • Con-man's Compressor // "FN | NeoTokyo Airblast Spam Flamethrower"
+        • -75% airblast cost
+        • -50% airblast cooldown // 0.375s ab cd i.f.
+        • -15% damage penalty // burns for 19 instead of 23 (Your tank dmg is lil' sad)
+        • -25% afterburn damage penalty // afterburn for 3 to 30
+    // In-game Desc:
+    // "Airblasts faster with a reduced cost but deals reduced flame damage."
+    // "We're puttin' on a clinic!" - Tindall
 
 Demo
-    • Burst of Brimstone
+    • Burst of Brimstone // "Rapidfire Loch'n Grenade Launcher"
+        • +50% clip size // Holds 8
+        • +50% max primary ammo on wearer
+        • +55% faster firing speed
+        • +50% projectile speed
+
+        • -30% damage penalty
+        • -20% slower reload time
+        • +2° degrees random projectile deviation
+        • -Launched bombs shatter on surfaces
     • Toxic Torid (Akure)
 
 Heavy
