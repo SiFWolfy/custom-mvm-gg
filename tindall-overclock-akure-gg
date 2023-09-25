@@ -9,6 +9,43 @@ Notes:
 Yes, they cost 0$ similar to Cactus' Overclocks, but your currency can't be negative.
 and you may need to refund or prepurchase your upgrades for them to take effect.
 (I will not take account for any side effect of attributes stacking that may break the balance further.)
+These stats are taken from here https://wiki.teamfortress.com/wiki/List_of_item_attributes 
+accurate of Overclock popfile used by Tindall. // Commented out Overclocks are unused.
 
 Scout
 Primary
+    Scattergun -- No downside
+    • Bronze Mod: Rejuvination
+      • +25% Health from packs and money on wearer
+
+    Force-a-Nature -- No more downside (target is slowed for 2 seconds)
+    • Platinum Mod: Frigid Blast
+      • On Hit: 100% chance to slow target 
+      • No longer knockback on the target and shooter
+
+   Shortstop -- Downsides are gone, but without $ your dmg is STILL slow
+    • Silver Mod: Eject Magazine
+      • -25% clip size 
+      • -0% slower reload time // Shortstop has innate -50% reload speed, iirc
+      • No increase in push force taken from damage and airblast
+
+    Backscatter -- Strong upside, but aside from picking Ubermeds.. still niche
+    • Silver Mod: Vicious Spread
+      • Always critical hit from behind // from "mini-crits targets when fired at their back from close range"
+      • -60% less accurate
+      • -25% slower firing speed
+
+    BbyFaceBlaster -- Acts similar to pre-2015 + unable to double jump
+    • Gold Mod: Narrow Barrel
+      • +35% more accurate
+      • Wearer never takes falling damage
+      • Boost no longer reduced on air jumps
+      • Boost reduced when hit
+	    • Disables double jump
+      • -20% damage penalty
+
+   // Soda Popper // This is.. overtuned. Tindall why. no. We can abuse the fire speed.
+    • Silver Mod: Hell's Chamber
+      • +20% bullets per shot
+      • -0% faster reload time
+
