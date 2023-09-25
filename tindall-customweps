@@ -51,7 +51,6 @@ Soldier
     // "Launches a wide spread of low damage rockets that home in on the crosshair."
     // "If you run, you'll only die tired." - Tindall
 
-
 Pyro
     • Con-man's Compressor // "FN | NeoTokyo Airblast Spam Flamethrower"
         • -75% airblast cost
@@ -62,21 +61,50 @@ Pyro
     // "Airblasts faster with a reduced cost but deals reduced flame damage."
     // "We're puttin' on a clinic!" - Tindall
 
-Demo
-    • Burst of Brimstone // "Rapidfire Loch'n Grenade Launcher"
+Demoman
+    • Burst of Brimstone // "Weak-Rapidfire Loch'n Grenade Launcher"
         • +50% clip size // Holds 8
         • +50% max primary ammo on wearer
         • +55% faster firing speed
         • +50% projectile speed
 
-        • -30% damage penalty
+        • -30% damage penalty // deals 70 
         • -20% slower reload time
         • +2° degrees random projectile deviation
         • -Launched bombs shatter on surfaces
-    • Toxic Torid (Akure)
+    // In-game Desc:
+    // "Rapidly launches low damage grenades with a smaller explosion radius that explode on impact."
+    // "Blammo!~" - Tindall
+
+    • Toxic Torid (Akure) // "FN | TumorToasted Toxin Grubnade Launcher"
+        • +50% clip size // Holds 8
+        • +60% damage bonus vs tank // Basically, 135.. right?
+        • Grenades explode on impact
+        • On Hit: Bleed for 4 seconds
+        • On Hit: Slow target movement by 40% for 2s
+        • +125% Bleed damage bonus // So bleeds for 40 dmg in 4t -- yeah medics are popped
+
+        • -25% damage penalty    // Deals 75 to players
+        • -25% max primary ammo on wearer
+        • -30% slower firing speed
+        • -20% projectile speed
+    // In-game Desc:
+    // "Launches toxic bombs that slow enemies and deal heavy damage over time."
+    // "Smelly, smelly gas!" - Tindall
 
 Heavy
     • Bootleg Deflector
+        • +10% damage bonus	
+        • +35% faster move speed while deployed	
+        • Bullets destroy rockets and grenades in-flight. // Tier 1
+
+        • -25% slower spin up time
+        • -35% less accurate
+
+    // In-game Desc:
+    // "Destroys projectiles in a wider spread and deals slightly more damage, but spins up slower."
+	// "I hate metal!" - Tindall
+
     • Soviet Slammer
     • Bludger's Barrage (Akure)
 
