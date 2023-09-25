@@ -18,16 +18,6 @@ Primary
     • Bronze Mod: Rejuvination
       • +25% Health from packs and money on wearer
 
-    Force-a-Nature -- No more downside (target is slowed for 2 seconds)
-    • Platinum Mod: Frigid Blast
-      • On Hit: 100% chance to slow target 
-      • No longer knockback on the target and shooter
-
-   Shortstop -- Downsides are gone, but without $ your dmg is STILL slow
-    • Silver Mod: Eject Magazine
-      • -25% clip size 
-      • -0% slower reload time // Shortstop has innate -50% reload speed, iirc
-      • No increase in push force taken from damage and airblast
 
     Backscatter -- Strong upside, but aside from picking Ubermeds.. still niche
     • Silver Mod: Vicious Spread
@@ -44,8 +34,23 @@ Primary
 	    • Disables double jump
       • -20% damage penalty
 
-   // Soda Popper // This is.. overtuned. Tindall why. no. We can abuse the fire speed.
+    Force-a-Nature -- No more downside (target is slowed for 2 seconds)
+    • Platinum Mod: Frigid Blast
+      • On Hit: 100% chance to slow target 
+      • No longer knockback on the target and shooter
+
+   Shortstop -- Downsides are gone, but without $ your dmg is STILL slow
+    • Silver Mod: Eject Magazine
+      • -25% clip size 
+      • -0% slower reload time // Shortstop has innate -50% reload speed, iirc
+      • No increase in push force taken from damage and airblast
+
+   // Soda Popper // Overtuned, please get rid of it.
     • Silver Mod: Hell's Chamber
       • +20% bullets per shot
       • -0% faster reload time
 
+Secondary
+	 // Pistol // -- uhh.. 
+		• Bronze Mod: Sharpened Bullets
+      • On Kill: Gain Crits for 3 seconds
