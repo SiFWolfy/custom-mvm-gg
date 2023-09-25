@@ -1,0 +1,77 @@
+This page was was SiF's attempt to make custom MvM a bit more interesting.
+
+While this was written, it was originally going to be available in the following missions;
+• Production - (Unnamed) (Advanced)
+• Silentsky - Frigid Citadel (Advanced)
+• Cyberia - (???) (Adv - Endu)
+
+While some of them do come with custom base attributes and bots do drop them,
+the weapon cost (to purchase) might vary.
+
+Scout
+• Custom Weapon: QS-Semi Auto Shotgun
+• Custom Weapon: Nailgun // if this sucks, it won't make the beta cut
+• Custom Weapon: Catcher's Mitt
+  • Pri-Fire: Reflect projectile back at opponents
+  • Melee hits all opponents in range (cleave)
+  • -?% Health / Vulnerability // need testing
+• Custom Weapon: Sabo-66 (Reimagined cut Gordbot Laser pistol)
+
+Soldier
+• Custom Weapon: HECU RPG
+(HazardeousEnvironmentCombatUnit Rocket Propelled Grenade)
+  • MvM Only: +100% weapon damage // need to test whether this blast impact would kill user, that would suck
+  • +50% explosion radius
+  • -75% clip size
+  • -150% slower firing speed
+  • Fires a homing (arc?) // need more beta-testing
+  
+Pyro
+• Custom Weapon: Overburner/AfterBurner
+• Custom Weapon: Incendiary Cannon // What if scorchshot was better at its job?
+• Custom Weapon: Igniter/Torcher
+
+Demoman
+• Custom Weapon: Precursor // Stat incomplete, will attempt to get the quake feel down -- all with the centerfire
+
+Heavy
+• Custom Weapon: Assault Cannon // Tokamak -- TFC Assault hybrid
+• Custom Weapon: Sentry Gunner // may need better name (?)
+  • +25% more accurate
+  • full crit resistance when spun up
+  • -84 max health on wearer
+  • -99% slower move speed while deployed
+  
+• Custom Weapon: Ludmilla // need testing to make sure this doesn't suck. Hoping for non-overtune.
+ • On hit: +? Health -- make it overheals on kill instead? Does it make it better?
+ • - No random critical hits (Does this work?)
+ 
+• Custom Weapon: Aztec's Curse // I saw a concept today, I thought it look cool.
+  • On kill: Apply x% vulnerability (remove vuln from self or gain some sort of self resists?)
+  • -y% vulnerability on wearer // curse always active unless you killed something(?)
+  • -x% max ammo on wearer
+  • -z% firing speed / dmg vs players
+
+Engineer
+• Custom Weapon: SLS Zapper // Saw Gambler's Gambit the other day from Seelpit's mission. Might consider learning lua to make it "better."
+
+Medic
+• Custom Weapon: Super SMG // brought back from TFC, probably an awful idea.
+• Custom Weapon: Dart Crossbow // Idea: Arrow bounces from enemy to enemy, it homes in after hitting something + applies DOT
+• Custom Weapon: Overhealer // might be too similar to Overheal Exp, might go for "Apply Kingmaker from Mannpower instead"
+
+Sniper
+• Custom Weapon: Assault Rifle // going for a better take than Cactus' OC SMG, it feels sluggish atm. 
+Might think of an idea i.e. aimbot -- hacky stuff to make it better
+• Custom Weapon: Railgun // Trying for quake feel. Could reuse Classic attrib -- rem to NOT overtune it similar to Mobocracy.
+• Custom Weapon: Hunting Rifle // unable to scope in, can't charge but always able to headshot. -- Rifle mastery/hacky again
+
+Spy
+• Custom Weapon: Tranquil Gun // 
+ • On hit: One target at a time is marked-for-death/x% vulnerability, slowed, and given cond:114 (all teammates can see this)
+ • -75% damage penalty (does 19-23 vs 60) // already tested
+• Custom Weapon: Repgrogram Sapper
+• Custom Weapon: [Insert some Japanese Name here]'s Kunai -- testing if a YER sidegrade is good
+  • On kill: gain cond:4/13 and speed boost.
+  • -50% damage vs target tagged as MiniBoss // -- the idea here is to allow you to chainstab "better" than both YER and big earner, 
+but since you are forced to "cloak/disg" on kill, trying to attack a giant will be a bit awkward.
