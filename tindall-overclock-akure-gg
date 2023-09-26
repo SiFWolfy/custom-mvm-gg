@@ -12,29 +12,36 @@ and you may need to refund or prepurchase your upgrades for them to take effect.
 These stats are taken from here https://wiki.teamfortress.com/wiki/List_of_item_attributes 
 accurate of Overclock popfile used by Tindall. // Commented out Overclocks are unused.
 
+//===============
 Scout
+//===============
 Primary
-    Scattergun -- No downside
+   // Soda Popper // Overtuned. Arguably direct upgrade.
+   // • Silver Mod: Hell's Chamber
+   //   • +20% bullets per shot
+   // 	• -0% faster reload time
+
+    Scattergun -- Direct Upgrade
     • Bronze Mod: Rejuvination
       • +25% Health from packs and money on wearer
-
 
     Backscatter -- Strong upside, but aside from picking Ubermeds.. still niche
     • Silver Mod: Vicious Spread
       • Always critical hit from behind // from "mini-crits targets when fired at their back from close range"
-      • -60% less accurate
+      • -40% less accurate
       • -25% slower firing speed
 
     BbyFaceBlaster -- Acts similar to pre-2015 + unable to double jump
     • Gold Mod: Narrow Barrel
       • +35% more accurate
       • Wearer never takes falling damage
-      • Boost no longer reduced on air jumps
-      • Boost reduced when hit
+      • +Boost no longer reduced on air jumps
+      • +Boost no longer reduced when hit
+
 	    • Disables double jump
       • -20% damage penalty
 
-    Force-a-Nature -- No more downside (target is slowed for 2 seconds)
+    Force-a-Nature -- Direct Upgrade (target is slowed for 2 seconds)
     • Platinum Mod: Frigid Blast
       • On Hit: 100% chance to slow target 
       • No longer knockback on the target and shooter
@@ -45,12 +52,141 @@ Primary
       • -0% slower reload time // Shortstop has innate -50% reload speed, iirc
       • No increase in push force taken from damage and airblast
 
-   // Soda Popper // Overtuned, please get rid of it.
-    • Silver Mod: Hell's Chamber
-      • +20% bullets per shot
-      • -0% faster reload time
+Secondary
+	 // Pistol // ...direct upgrade, but still bad?
+	 // • Bronze Mod: Sharpened Bullets
+   //   • On Kill: Gain Crits for 3 seconds
+
+   Winger
+   • Silver Mod: Magnum Force -- "Direct upgrade"
+      • +55% damage bonus
+      • -50% firing speed
+
+	 PtyBoyPocketPistol -- Sidegrade
+	 • Silver Mod: Insatiable
+      • On Hit: Mad Milked for 4 seconds
+		  • -35% damage penalty
+		  • -50% clip size // <??>
+
+	 // Mad Milk // -- Clean, no downside
+	 • Bronze Mod: Enduring Affliction
+      • +50% effect length
+
+	 Bonk
+   • Platinum Mod: Ghost! -- Odd.. Sidegrade, though interesting one compared to (26: battalion but able to attack).
+     • +On use: Gain "Invisibility" // replaced cond 14, "Phasing" a.k.a Bonked!
+
+	 Crit-a-Cola
+	 • Platinum Mod: Rapid Resilience -- Nevermind!
+		 • +On use: Gain "Disciplinary Action Speed Boost" and "Defensive Crit Buff" // replaced cond 19, "EnergyBuff" a.k.a minicrit, but marked
+
+	 FlynGuillotine
+	 • Bronze Mod: Blazing Steel
+			• On Hit: target is engulfed in flames and Marked-For-Death, causing all damage taken to be mini-crits
+
+Melee
+	 // FanWar // Direct upgrade. There is no reason to not use this
+	 // • Bronze Mod: True Steel
+   // 	• -0% damage penalty
+	 //		• On Hit: Mad Milked for 6 seconds
+
+	Atomizer / Bat / HolyMackerel / Pan / ArmCombat, etc -- No downside, direct upgrade even
+	• Platinum Mod: Equilibrium
+		• +40% damage bonus
+		• On Hit: Milked for 6 seconds and Marked-For-Death, causing all damage taken to be mini-crits
+
+	Boston Basher / ThrRuneBlade
+	• Gold Mod: Rending Strike -- Sidegrade, slow but minicrit bleed is free
+		• +85% damage bonus
+		• On Hit: Marked-For-Death for 15 seconds, causing all damage taken to be mini-crits
+		• -60% slower firing speed
+		• -Hit yourself, Idiot // debuff is gone
+
+	Sandman -- No downside, marely a free 20% damage bonus
+	• Bronze Mod: Flailing Branch
+		• +20% damage bonus
+		• -0 max health on wearer
+
+	CndyCane -- Sidegrade, slow but you still have the pack on kill
+	• Gold Mod: Steel Fibre
+		• +25 max health on wearer
+		• -10% slower move speed on wearer
+		• -0% explosive damage vulnerability on wearer // downside is gone
+
+	SunStick -- Sidegrade, now it only sucks if you don't have a pyro
+	• Silver Mod: Volcanic Edge
+		• +200% damage bonus vs burning players
+		• +0% damage penalty
+
+		• -90% damage bonus vs non-burning players
+
+	WrapAssassin -- Sidegrade, loses 25 hp for what sandman does for free
+	• Silver Mod: Sundering Strike
+		• On Hit: Marked-For-Death, causing all damage taken to be mini-crits
+		• -25 max health on wearer
+
+//===============
+Soldier
+//===============
+Primary
+	// BeggarBazooka // -- This is a downgrade; consistency is gone
+  // • Gold Mod: Dual Rounds
+	//		• -40% damage penalty
+	//		• +30% faster firing speed
+	//		• +30% faster reload time
+	//		• +1 more projectile with random deviation // this is awful -- Have you considered the % of it blowing up in your face?
+
+   RocketLauncher -- Sidegrade, trading fire rate for ammo
+    • Silver Mod: Comet Blast
+      • +30% explosion radius
+      • -20% max primary ammo 
+
+	Aistrike -- Sidegrade, fires faster but slow reload
+    • Silver Mod: Ravage
+			• +34% Increased to attack speed while blast jumping
+			• -20% slower reload time
+			• +4° degrees random projectile deviation
+
+	BlackBox -- Sidegrade
+    • Platinum Mod: Metal Auger
+      • +10% damage vs tanks
+      • +10% damage vs MiniBoss robots
+      • -20% projectile speed
+      • On Hit: Gain up to +0 health
+
+	CowMangler5k -- Direct Upgrade
+    • Bronze Mod: Magma Chamber
+			• On Hit: target is engulfed in flames
+			• Item tint color code: 13595446 // Orange Mangler
+
+   DirectHit -- Sidegrade, one less clip for a strong trade-off
+    • Silver Mod: Fulmination
+      • +15% damage bonus
+      • +50% damage bonus vs tank
+      • Attacks pierce damage resistance effects and bonuses
+  	  • -25% clip size
+
+	LibrtyLauncher -- Downgrade, you lost everything that made liberty unique, but it gain pierce
+    • Silver Mod: Tainted Clip
+      • +0% damage penalty
+      • -50% clip size
+      • Attacks pierce damage resistance effects and bonuses
+
+	RocketJumper -- Direct upgrade, it fires from reserve now
+    • Bronze Mod: Crash Course
+      • +0% damage penalty
+      • No reload necessary
 
 Secondary
-	 // Pistol // -- uhh.. 
-		• Bronze Mod: Sharpened Bullets
-      • On Kill: Gain Crits for 3 seconds
+	Shotgun, Reserve Shooter, Panic Attack -- Direct upgrade, but feels redundant. 
+    • Bronze Mod: Lingering Torment
+      • On Hit: target is marked for death, causing all damage taken to be mini-crits
+
+	Buff Banner
+	 • Bronze Mod: Stretch
+      • +50% banner effect radius
+      • +40% faster weapon switch
+
+	Gunboats
+	 • Bronze Mod: Stretch
+      • +
