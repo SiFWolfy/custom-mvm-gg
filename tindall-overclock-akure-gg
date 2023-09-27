@@ -20,18 +20,18 @@ Primary
    // • Silver Mod: Hell's Chamber
    //   • +20% bullets per shot
    // 	• -0% faster reload time
-
-    Scattergun -- Direct Upgrade
+	
+	Scattergun -- Direct Upgrade
     • Bronze Mod: Rejuvination
       • +25% Health from packs and money on wearer
 
-    Backscatter -- Strong upside, but aside from picking Ubermeds.. still niche
+  Backscatter -- Strong upside, but aside from picking Ubermeds.. still niche
     • Silver Mod: Vicious Spread
       • Always critical hit from behind // from "mini-crits targets when fired at their back from close range"
       • -40% less accurate
       • -25% slower firing speed
 
-    BbyFaceBlaster -- Acts similar to pre-2015 + unable to double jump
+	BbyFaceBlaster -- Acts similar to pre-2015 + unable to double jump
     • Gold Mod: Narrow Barrel
       • +35% more accurate
       • Wearer never takes falling damage
@@ -41,12 +41,12 @@ Primary
 	    • Disables double jump
       • -20% damage penalty
 
-    Force-a-Nature -- Direct Upgrade (target is slowed for 2 seconds)
+	Force-a-Nature -- Direct Upgrade (target is slowed for 2 seconds)
     • Platinum Mod: Frigid Blast
       • On Hit: 100% chance to slow target 
       • No longer knockback on the target and shooter
 
-   Shortstop -- Downsides are gone, but without $ your dmg is STILL slow
+	Shortstop -- Downsides are gone, but without $ your dmg is STILL slow
     • Silver Mod: Eject Magazine
       • -25% clip size 
       • -0% slower reload time // Shortstop has innate -50% reload speed, iirc
@@ -182,11 +182,66 @@ Secondary
     • Bronze Mod: Lingering Torment
       • On Hit: target is marked for death, causing all damage taken to be mini-crits
 
-	Buff Banner
+	ReservShooter
+	 • Platinum Mod: Shotgun Barrage
+      • +Crits targets launched airborne by explosions
+      • +50% faster firing speed while blast jumping
+      • +40% more accurate //
+      • Alt-fire to deploy a parachute while in flight // uhh..
+      • -35% slower firing speed
+      • No random critical hits
+
+	Buff Banner -- Direct Upgrade
 	 • Bronze Mod: Stretch
       • +50% banner effect radius
       • +40% faster weapon switch
 
-	Gunboats
+	Concheror
 	 • Bronze Mod: Stretch
-      • +
+      • +50% banner effect radius
+
+	BattalionBackup
+	 • Bronze Mod: Stretch
+      • +50% banner effect radius
+      • +30 max hp on wearer
+	Mantreads
+	 • Gold Mod: Anti-Flak Plating
+      • +35% explosive damage resistance on wearer
+      • +50% credit pickup radius
+
+	Gunboats
+	 • Gold Mod: Shock Absorbers
+      • +Wearer never takes fall damage
+      • +50% credit pickup radius
+
+	RighteousBison
+	 • Platinum Mod: Vile Acceleration
+      • +1300% more damage // 240-288 per penetration
+      • +Fires bullet instead of lasers
+      • Projectiles penetrate enemy players and teammates
+      • +90% more accurate
+      • +30% faster reload time
+
+      • -90% less bullets per shot
+      •	-Fires tracer rounds
+      • -Weapon has no damage ramp up
+
+Melee
+	// Shovel // -- free straight upgrade
+	// • Platinum Mod: Armoured Agility
+  //    • +20% move speed while active
+  //    • +30% bullet damage resistance on wearer
+  //    • +30% blast damage resistance on wearer
+  //    • +30% fire damage resistance on wearer
+
+	Equalizer
+	 • Bronze Mod: Provoked
+      • +25% damage bonus
+	 		• -35% damage from ranged sources while active
+
+	EscapePlan
+	 • Silver Mod: Radiant Finish
+	    • +50% health from packs on wearer
+	    • -30% slower firing speed
+
+	
