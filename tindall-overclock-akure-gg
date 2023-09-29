@@ -134,7 +134,7 @@ Primary
 	//		• -40% damage penalty
 	//		• +30% faster firing speed
 	//		• +30% faster reload time
-	//		• +1 more projectile with random deviation // this is awful -- Have you considered the % of it blowing up in your face?
+	//		• +1 more projectile per shot // this is awful -- Have you considered the % of it blowing up in your face?
 
    RocketLauncher -- Sidegrade, trading fire rate for ammo
     • Silver Mod: Comet Blast
@@ -243,5 +243,83 @@ Melee
 	 • Silver Mod: Radiant Finish
 	    • +50% health from packs on wearer
 	    • -30% slower firing speed
-
 	
+	DisciplinaryAction
+	 • Bronze Mod: The Quickening
+	    • 	On Hit: Gain 2 second speed boost
+
+	Market Gardener
+	 • Gold Mod: Spoiled Strike
+	    • 25% damage bonus
+	    • +30% increased melee bounding box
+	    • +50% increased melee attack range
+	    • All players connected via Medigun beams are hit
+	    • -15% slower firing speed
+
+
+//===============
+Pyro
+//===============
+Primary
+	Flamethrower
+	 • Gold Mod: Blaze
+	    • +15% damage bonnus
+	    • On Hit: Bleed for 3 seconds
+	    • Attacks pierce damage resistance effects and bonuses
+	    • -Airblast no longer pushes robots
+
+	Degreaser
+	 • Silver Mod: Wildfire
+	    • Attacks pierce damage resistance effects and bonuses
+	    • +15% movement speed on wearer
+	    • 10% damage penalty
+
+	DragonFury
+	 • Silver Mod: Healing Return
+	    • On Hit: Gain up to 15 health
+
+	Phlogistinator
+	 • Platinum Mod: Regen
+	    • Alt-Fire on full 'Mmmph': Taunt to gain minicrits and concheror speedboost for several seconds
+
+Secondary
+	// PanicAttack // 
+	//    • On Hit: target is engulfed in flames
+
+	Shotgun
+	 • Silver Mod: Scorching Inferno
+	    • On Hit: target is engulfed in flames
+	    • +50% bullets per shot
+	    • -20% damage penalty
+
+	Detonator
+	 • Bronze Mod: Sure Shot
+	    • On Kill: 10 seconds of 100% mini-crit chance
+	    • -0% damage penalty // downside is removed
+
+	Flaregun
+	 • Silver Mod: Target Craccker
+	    • +80% damage bonus
+	    • -35% projectile speed
+
+	Manmelter
+	 • Platinum Mod: Maim
+			• +2 more projectile per shot
+			• +3° degrees random projectile deviation
+	    • -30% damage penalty
+
+	ScorchShot
+	 • Bronze Mod: SureShot
+			• On Kill: 5 seconds of 100% mini-crit chance
+	    • -0% damage penalty
+
+	ThermalThruster
+	 • Bronze Mod: SureShot
+			• +25% max primary ammo on wearer
+
+Melee
+	FireAxe
+• Bronze Mod: Speed Holster
+			• +40%  faster weapon switch
+
+
