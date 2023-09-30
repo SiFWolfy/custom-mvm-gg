@@ -256,7 +256,6 @@ Melee
 	    • All players connected via Medigun beams are hit
 	    • -15% slower firing speed
 
-
 //===============
 Pyro
 //===============
@@ -319,7 +318,62 @@ Secondary
 
 Melee
 	FireAxe
-• Bronze Mod: Speed Holster
+	 • Bronze Mod: Speed Holster
 			• +40%  faster weapon switch
+
+	Axtinguisher
+	 • Silver Mod: Buzz Kill
+			• +crits whenever it would normally mini-crit
+			• -50% firing speed
+
+	Backscratcher
+	 • Silver Mod: Life Strike
+			• Always critical hit from behind
+			• -0% damage bonus
+			• -50% slower firing speed
+
+	Homewrecker / Maul
+	 • Silver Mod: Counterweight
+			• -75% reduction in push force taken from damage
+			• +35% bullet damage resistance on wearer
+			• -25% damage penalty
+
+	HotHand
+ • Platinum Mod: Runtime
+			• +On Hit Teammate: Boosts both players' speed for several seconds
+   		• +55% increased melee bounding box
+   		• +25 max health on wearer
+   		• -20% dmage penalty
+
+	NeonAnnihilator
+	 • Silver Mod: Voltaic Strike
+			• +100% damage bonus vs buildings
+			• +All players connected via Medigun beams are hit
+			• -25% slower firing speed
+
+	Powerjack
+	 • Silver Mod: Jolt
+			• On Kill:  5 seconds of 100% critical chance
+			• -20% slower firing speed
+			• -This weapon holsters -50% faster
+	
+	ThirdDegree
+	 • Silver Mod: Shocking Touch
+			• On Hit: Victim loses up to -10% Medigun charge
+   		• This weapon deploys 100% slower
+
+	VolcanoFragment
+	 • Silver Mod: Volcanic Edge
+			• On Hit: Gain up to 25 health
+			• +50% faster afterburn
+			• -30% damage penalty
+
+//===============
+Demoman
+//===============
+Primary
+	Grenade Launcher
+	 • Silver Mod: Ammo Case
+			• +50% clip size
 
 
