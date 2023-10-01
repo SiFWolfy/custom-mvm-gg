@@ -221,7 +221,6 @@ Secondary
       • Projectiles penetrate enemy players and teammates
       • +90% more accurate
       • +30% faster reload time
-
       • -90% less bullets per shot
       •	-Fires tracer rounds
       • -Weapon has no damage ramp up
@@ -372,8 +371,41 @@ Melee
 Demoman
 //===============
 Primary
-	Grenade Launcher
+	GrenadeLauncher
 	 • Silver Mod: Ammo Case
+			• -20% damage penalty
 			• +50% clip size
+			• +87.5% primary ammo on wearer		
+
+	IronBomber
+	 • Platinum Mod: Scattered Justice
+			• +3 more projectile per shot
+			• -45% fuse time on grenades
+
+			• -15% explosion radius
+			• +4° degrees random projectile deviation
+			• -30% slower firing speed
+			• -70% self blast damage // barely able to self-blast jump with ib
+			• -85% self damage force
+
+	LochnLoad
+	 • Silver Mod: Fulmination
+			• Attacks pierce damage resistance effects and bonuses
+			• -20% damage penalty vs buildings
+			• -25% clip size
+
+	LooseCannon
+	 • Silver Mod: Napalm Grenades
+			• On Hit: target is engulfed in flames
+			• +25% explosion radius
+			• -50% max primary ammo on wearer
 
 
+
+
+
+	AliBabaBooties
+	Bootlegger
+
+
+	Stickybomb
