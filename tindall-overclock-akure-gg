@@ -400,12 +400,15 @@ Primary
 			• +25% explosion radius
 			• -50% max primary ammo on wearer
 
-
-
-
-
 	AliBabaBooties
+	 • Gold Mod: Shock Absorbers
+	 • 200% credit pickup radius
+
 	Bootlegger
+	 • +10% faster movement speed on wearer // regardless of shield
+	 • +35% explosive damage resistance on wearer
+	 • +0% increase in turning control while charging // Turn control bonus? Gone.
+	 • -Melee kills refill 0% of your charge meter.
 
-
+Secondary
 	Stickybomb
