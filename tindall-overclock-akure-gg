@@ -405,7 +405,7 @@ Primary
 		• 200% credit pickup radius
 
 	Bootlegger
-	 • Gold ModPlatinum Mod: Adhesive Blast
+	 • Platinum Mod: Anti-Flak Plating
 		 • +10% faster movement speed on wearer // regardless of shield
 		 • +35% explosive damage resistance on wearer
 		 • +0% increase in turning control while charging // Turn control bonus? Gone.
@@ -495,5 +495,51 @@ Melee
  		 • -200% self damage force // no longer knocks you airborne
  		 • -50% damage to self
 
+//===============
+Heavy
+//===============
+Primary
+	Minigun
+	 •	Silver Mod: Assault Mode
+		 • This weapon can be holstered when spun up
+		 • +10% bullet damage resistance on wearer
+		 • +10% blast damage resistance on wearer
+		 • -75% reduction in push force taken from damage
+		 • -15% damage penalty
+		 • -35% less accurate
+
+	Natascha
+	 •	Platinum Mod: Assault Mode
+
+	BrassBeast
+	Tomislav
+	HuoLongHeater
+
+Secondary
+	Shotgun
+
+//===============
+Engineer
+//===============
+Primary
+
+//===============
+Medic
+//===============
+Primary
+
+//===============
+Sniper
+//===============
+Primary
+
+//===============
+Spy
+//===============
+Primary
+
+//===============
+Civ
+//===============
 
 
