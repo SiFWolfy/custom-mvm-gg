@@ -402,13 +402,52 @@ Primary
 
 	AliBabaBooties
 	 • Gold Mod: Shock Absorbers
-	 • 200% credit pickup radius
+		• 200% credit pickup radius
 
 	Bootlegger
-	 • +10% faster movement speed on wearer // regardless of shield
-	 • +35% explosive damage resistance on wearer
-	 • +0% increase in turning control while charging // Turn control bonus? Gone.
-	 • -Melee kills refill 0% of your charge meter.
+	 • Gold ModPlatinum Mod: Adhesive Blast
+		 • +10% faster movement speed on wearer // regardless of shield
+		 • +35% explosive damage resistance on wearer
+		 • +0% increase in turning control while charging // Turn control bonus? Gone.
+		 • -Melee kills refill 0% of your charge meter.
 
 Secondary
 	Stickybomb
+	 • Platinum Mod: Adhesive Blast
+		 • 0.1 sec faster bomb arm time
+		 • Stickybombs sticks to target
+		 • -3 pipebombs out
+
+	Quickiebomb
+	 • Gold Mod: Lethal Momentum
+		 • 100% Projectile gravity // It is practically constant, akin to.. rocket
+		 • -15% damage penalty
+		 • -25% clip size
+		 • -25% explosion radius
+	
+	ScottishResistance
+	 • Silver Mod: Ruinous Extension
+		 • +30% explosion radius
+		 • -10% damage penalty
+		 • -2 pipebombs out
+
+	StickyJumper
+    • Bronze Mod: Crash Course
+      • Max charge time decreased by -95%
+      • +0% damage penalty
+      • No reload necessary
+
+	CharginTarge
+	 • Gold Mod: Enduring Strike
+		 • 0.5 sec increase in charge duration
+		 • Immune to the effects of afterburn
+
+	SplendidScreen
+	 • Gold Mod: Killing Blow
+		 • +20% bullet damage resistance on wearer
+		 • +30% increase in charge impact damage // So 100. Right.
+
+	TideTurner
+	 • Bronze Mod: Blood Rush
+		 • Melee attack does not cancel your charge
+		 • +Taking damage while shield charging does not reduce charge time. // Inverted -1
