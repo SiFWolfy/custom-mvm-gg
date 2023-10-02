@@ -451,3 +451,49 @@ Secondary
 	 • Bronze Mod: Blood Rush
 		 • Melee attack does not cancel your charge
 		 • +Taking damage while shield charging does not reduce charge time. // Inverted -1
+
+Melee
+	Bottle
+	 • Silver Mod: Safeguard
+		 • On Kill: 4 seconds of 100% critical chance
+		 • This weapon holsters 50% faster
+
+	ClaidheamhMor
+	 • Bronze Mod: Cleaving Whirlwind
+		 • -15% damage from ranged sources while active
+		 • +0% damage vulnerability on wearer // downside is swapped
+		 • Honorbound: Once drawn sheathing deals 50 damage to yourself unless it kills
+
+	Eyelander / Headtaker / NessieNineIron
+	 • Bronze Mod: Tempo Royale
+		 • 15% damage bonus
+		 • Honorbound: Once drawn sheathing deals 50 damage to yourself unless it kills
+
+	PersianPersuader
+	 • Gold Mod: Vengeful Revenant
+		 • 10% damage bonus
+		 • 10% faster move speed on wearer
+		 • -50% reduction in push force taken from damage
+		 • Honorbound: Once drawn sheathing deals 50 damage to yourself unless it kills
+
+	ScotsSkullcutter
+	 • Bronze Mod: Iron Phoenix
+		 • -75% reduction in push force taken from damage
+		 • Honorbound: Once drawn sheathing deals 50 damage to yourself unless it kills
+
+	ScottishHandsake
+	 • Platinum Mod: Spoiled Strike
+		 • +25% damage bonus
+		 • Deals crits while the wielder is grenade jumping
+		 • All players connected via Medigun beams are hit
+		 • -35% slower firing speed
+		 • No random critical hits
+
+	UllapoolCaber
+	 • Platinum Mod: Sure Footed
+		 • Stickybomb is no longer destroyed on hit
+ 		 • -200% self damage force // no longer knocks you airborne
+ 		 • -50% damage to self
+
+
+
