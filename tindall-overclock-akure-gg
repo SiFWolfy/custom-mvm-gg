@@ -571,18 +571,43 @@ Secondary
 		 • +20% max primary ammo on wearer
 
 Melee
-	Fist
+	Fist / ApocoFist 
 	 • Silver Mod: Seismic Palm
 		 • On Hit: 100% chance to slow target // for 2s
 		 • -40% slower firing speed
 
-	ApocoFist
 	EvictionNotice
+	 • Bronze Mod: Berserker Fury
+		 • Crits whenever it would normally mini-crit
+		 • -0 Maximum health is drained while item is active // this is gone, but dmg penalty exists.
+
 	FistOfSteel
-	GlovesRunningUrgently
+	 • Silver Mod: Heavy Trauma
+		 • -40% damage from ranged sources while active // 80%, you are one of those gauntlet 
+		 • +100% damage from melee sources while active
+
+	GlovesRunningUrgently / BreadBite
+	 • Bronze Mod: Martial Fury
+		 • -0 Maximum health is drained while item is active
+		 • You are Marked-For-Death while active, and for short period after switching weapons
+
 	HolidayPunch
+	 • Silver Mod: Noble Cadence
+		 • Always critical hit
+		 • This weapon deploys +75% faster
+		 • -30% slower firing speed
+
 	KillingGlovesBoxing
+	 • Silver Mod: Dispatch Fury
+		 • This weapon deploys +75% faster
+		 • -20% damage penalty
+
 	WarriorsSpirit
+	 • Silver Mod: Grim Fury
+		 • +0% damage vulnerability on wearer
+		 • Crits whenever it would normally mini-crit
+		 • -30% slower firing speed
+		 • Honorbound: Once drawn sheathing deals 50 damage to yourself unless it kills
 
 //===============
 Engineer
