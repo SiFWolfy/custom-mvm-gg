@@ -537,6 +537,52 @@ Primary
 
 Secondary
 	Shotgun
+	 • Platinum Mod: Vicious Spread
+		 • +100% more bullet per shot
+		 • -33% damage penalty
+		 • -67% clip size // basically.. heavy double barrel.
+		 • -75% max secondary ammo on wearer 
+		 • This weapon reloads its entire clip at once
+
+	FamilyBusiness
+	 • Bronze Mod: Flechette
+		 • +35% more accurate
+
+	PanicAttack
+	 • Bronze Mod: Shell Shock
+		 • On Kill: 5 seconds of 100% mini-crit chance
+
+	BuffaloSteak
+	 • Bronze Mod: Adaptation
+		 • +On use: Gain "Defense Buff" // replaced cond 19, "Energy Buff" -- minicrit
+
+	DalokohsBar
+	 • Gold Mod: Preparation
+		 • +50 max health on wearer
+		 • -35% health from healers on wearer
+
+	SecondBanana
+	 • Bronze Mod: Mobilise
+		 • +10% faster move speed on wearer 
+		 • -25 max health on wearer
+
+	Sandvich
+	 • Bronze Mod: Ammo Stock
+		 • +20% max primary ammo on wearer
+
+Melee
+	Fist
+	 • Silver Mod: Seismic Palm
+		 • On Hit: 100% chance to slow target // for 2s
+		 • -40% slower firing speed
+
+	ApocoFist
+	EvictionNotice
+	FistOfSteel
+	GlovesRunningUrgently
+	HolidayPunch
+	KillingGlovesBoxing
+	WarriorsSpirit
 
 //===============
 Engineer
