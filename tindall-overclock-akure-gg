@@ -500,7 +500,7 @@ Heavy
 //===============
 Primary
 	Minigun
-	 •	Silver Mod: Assault Mode
+	 •	Silver Mod: Assault Mode // Meh. DMG penalty for basically nothing.
 		 • This weapon can be holstered when spun up
 		 • +10% bullet damage resistance on wearer
 		 • +10% blast damage resistance on wearer
@@ -508,12 +508,32 @@ Primary
 		 • -15% damage penalty
 		 • -35% less accurate
 
-	Natascha
-	 •	Platinum Mod: Assault Mode
+	Natascha // Ludmilla, again
+	 •	Platinum Mod: Healing Return
+		 • On Hit: Gain up to 8 health
+		 • This weapon can be holstered when spun up
+		 • -On Hit: No longer slows target
 
 	BrassBeast
+	 •	Gold Mod: Shred // lose all of your downside for a measly crit hit resist.
+		 • +50% critical hit damage resistance on wearer
+		 • +0% slower spin up time
+		 • +0% damage resistance when below 50% health and spun up
+		 • -39% slower move speed while deployed // ..you can't move without spamming jumphght.
+
 	Tomislav
+	 •	Silver Mod: Agile Aim
+		 • Attacks pierce damage resistance effects and bonuses
+		 • +50% faster move speed while deployed
+		 • This weapon can be holstered when spun up
+		 • -25% max primary ammo on wearer
+
 	HuoLongHeater
+	 •	Silver Mod: Combustion Rounds
+		 • On Hit: target is engulfed in flames
+		 • This weapon can be holstered when spun up
+		 • -15% damage penalty
+		 • Creates 36 ring of flames while spun up // about 300%, and lose your giant dps
 
 Secondary
 	Shotgun
