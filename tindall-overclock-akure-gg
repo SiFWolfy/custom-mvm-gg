@@ -664,6 +664,32 @@ Secondary
 
 Melee
 	Wrench
+	 • Sinister Reach
+		 • +25% sentry range
+
+	Eureka Effect
+	 • Gold Mod: Metal Fibre
+		 • Construction hit speed boost increased by +50%
+		 • 50% faster teleporter recharge
+		 • On Teleport: Gain speedboost
+		 • -20% max metal on wearer
+
+	Gunslinger
+	 • Gold Mod: Sanctuary
+		 • Build +1 additional disposable-sentry
+		 • +50% dispenser range
+		 • -20 Canteen price // canteen spec
+
+	// Jag
+	// • Bronze Mod: Accelerated Deflection
+	//	 • +40% faster upgrade rate
+
+	SouthernHospitality
+	 • Silver Mod: Scavenge
+		 • +50% more metal from pickups and dispensers
+		 • -0% fire damage vulnerability on wearer
+		 • -15% damage vulnerability on wearer
+
 
 //===============
 Medic
