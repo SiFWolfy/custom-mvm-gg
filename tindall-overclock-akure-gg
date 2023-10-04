@@ -613,6 +613,57 @@ Melee
 Engineer
 //===============
 Primary
+	Shotgun
+	 • Platinum Mod: Fetch
+		 • Alt-Fire: Use 150 metal to pick up your targeted building from long range
+
+	FrontierJustice
+	 • Silver Mod: Point Blank
+		 • +20% damage bonus
+		 • -17% clip size
+
+	PanicAttack
+	 • Bronze Mod: Calculated Shot
+		 • +45% increased damage to your sentry's target
+
+
+	Pomson6k
+	 • +100% projectile speed
+		 • +3 more projectile per shot
+		 • +2° degrees random projectile deviation
+
+	RescueRanger
+	 • Gold Mod: Repair Kit
+		 • Fires a special bolt that can repair friendly buildings // heals for 75 now.
+		 • -No self mark for death when hauling buildings
+		 • -25 max health on wearer
+
+	Widowmaker
+	 • Silver Mod: Fired Up
+		 • +10% Sentry Gun damage bonus
+		 • Per Shot: additional -10 ammo // burns 60 per shot
+
+Secondary
+	Pistol
+	 • Bronze Mod: Pistol Gambit
+		 • +20% damage bonus
+		 • +50% max building health
+
+	ShortCircuit
+	 • Platinum Mod: Ion Infusion
+		 • +100% damage bonus
+		 • +50% max building health
+		 • Projectile homes in target // value set to 360, it doesn't exactly move..?
+		 • -50% slower firing speed
+
+	Wrangler
+	 • Bronze Mod: Cautious Shot
+		 • 90% blast damage from rocket jumps
+		 • Wearer never takes falling damage
+		 • -15% max metal on wearer
+
+Melee
+	Wrench
 
 //===============
 Medic
