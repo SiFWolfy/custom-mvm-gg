@@ -93,7 +93,7 @@ Melee
 	Atomizer / Bat / HolyMackerel / Pan / ArmCombat, etc -- No downside, direct upgrade even
 	• Platinum Mod: Equilibrium
 		• +40% damage bonus
-		• On Hit: Milked for 6 seconds and Marked-For-Death, causing all damage taken to be mini-crits
+		• On Hit: Mad Milked for 6 seconds and Marked-For-Death, causing all damage taken to be mini-crits
 
 	Boston Basher / ThrRuneBlade
 	• Gold Mod: Rending Strike -- Sidegrade, slow but minicrit bleed is free
@@ -695,6 +695,78 @@ Melee
 Medic
 //===============
 Primary
+	SyringeGun
+	 • Silver Mod: Hydraulic Barrel
+		 • +50% damage bonus
+		 • -25% clip size
+		 • -50% slower reload time
+
+	Blutsauger
+	 • Silver Mod: Recover
+		 • +20% damage bonus
+		 • On Hit: Gain up to +2 health // +5 heal per hit
+		 • -25% clip size
+		 • -35% slower reload time
+
+	CrusaderCrossbow
+	 • Platinum Mod: Insatiable
+		 • On Hit: On Hit: Mad Milked for 5 seconds
+		 • -50% damage penalty
+		 • -50% slower reload time
+
+
+	Overdose
+	 • Silver Mod: Hydraulic Barrel
+		 • +20% damage bonus
+		 • -25% clip size
+		 • -35% slower reload time
+
+Secondary
+	Medigun
+	 • Gold Mod: Vitality
+		 • +25% heal rate
+		 • +50 max health on wearer
+		 • -90% damage penalty // shield only deals 7 to 13. what? why?
+		 • -50% buff duration // shield duration lasts for 6s
+		 • -15% ÜberCharge rate on Overhealed patients
+
+	Kritzkrieg
+	 • Gold Mod: Vigour
+		 • 	+25% max overheal
+		 • -25 max health on wearer
+
+	QuickFix
+	 • Platinum Mod: Continuity
+		 • +35% heal rate
+		 • Medigun able to heal building // +10% heal rate by def
+		 • -25% Overheal build rate
+
+	Vaccinator
+	 • Silver Mod: Diamond Skin 
+		 • +15% bullet damage resistance when this weapon is active // 90% resist to you and patient
+		 • +15% explosive damage resistance when this weapon is active
+		 • +15% fire damage resistance when this weapon is active
+		 • -50% buff duration // shield duration lasts for 6s
+		 • -90% damage penalty // shield only deals 7 to 13. zzzzz
+
+Melee
+	Bonesaw / SolemnVow
+	 • 	Bronze Mod: Lightning Rod
+		 • On Hit: +15% ÜberCharge added
+
+	Amptutator
+	 • Platinum Mod: Vital Systems Bypass
+		 • On Hit: +15% ÜberCharge added
+		 • On Kill: Drop
+
+	Ubersaw
+	 • 
+		 • 
+
+	VitaSaw
+	 • 
+		 • 
+
 
 //===============
 Sniper
