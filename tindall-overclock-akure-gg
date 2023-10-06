@@ -782,7 +782,7 @@ Melee
 	Ubersaw
 	 • Gold Mod: Streamlined Form
 		 • +10% faster move speed on wearer
-		 • +25 max health on wearer
+		 • -25 max health on wearer
 		 • On Hit: -5% ÜberCharge added // does 20% instead of 25%. Is it worth it? Meh.
 
 	VitaSaw
@@ -958,10 +958,6 @@ PDA
 	RedTapeRecorder
 	 • 
 		 •
-
-
-
-
 
 //===============
 Civ
