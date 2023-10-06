@@ -178,6 +178,12 @@ Primary
       • No reload necessary
 
 Secondary
+	BaseJumper
+	 • Gold Mod: Aviator
+		 • Wearer never takes falling damage
+		 • Parachute could be redeployed
+		 • +100% increased air control
+
 	Shotgun, Reserve Shooter, Panic Attack -- Direct upgrade, but feels redundant. 
     • Bronze Mod: Lingering Torment
       • On Hit: target is marked for death, causing all damage taken to be mini-crits
@@ -255,6 +261,19 @@ Melee
 	    • All players connected via Medigun beams are hit
 	    • -15% slower firing speed
 
+	PainTrain
+	• Silver Mod: Rush
+		 • +10% faster movement speed on wearer
+		 • +0 capture rate on wearer
+
+	ZatoichiKatana
+	• Gold Mod: Tranquil Cleave
+		• +50 nax health on wearer
+		• +40% increased melee attack range
+		• +30% increased melee hitbox bound
+		• -50% max primary ammo on wearer
+		• -50% max secondary ammo on wearer
+	
 //===============
 Pyro
 //===============
@@ -859,34 +878,78 @@ Secondary
 
 Melee
 	Kukri
-	 • 
-		 •
+	 • Platinum Mod: Proton Snap
+		 • Damage removes Sappers // oh cool. Sniper is also a pyro now.
+		 • 100% damage bonus vs buildings
 
 	Bushwacka
-	 • 
-		 •
+	 • Gold Mod: Tempered Blade
+		 • 20% damage bonus
+		 • -25 max health on wearer
 
 	Shahanshah
-	 • 
-		 •
+	 • Bronze Mod: Finishing Touch
+		 • -0% decrease in damage when health >50% of max
+		 • -20% firing speed
 
 	TribalmanShiv
-	 • 
-		 •
+	 • Gold Mod: Lasting Sting
+		 • On Hit: Bleed for 2 seconds // Now bleed for 8 for 7secs. 36 more dmg comp to default.
+		 • +100% bleeding damage bonus
+		 • Attacks pierce damage resistance effects and bonuses
 
 //===============
 Spy
 //===============
 Primary
-	Revolver
-	 • 
-		 •
+	// Revolver
+	// • Platinum Mod: Suppress
+	//	 • Firing your weapon no longer breaks disguise
+
+	Revolver / L'etranger
+	 • Silver Mod: Dizzying Rounds
+		 • On Hit: 100% chance to slow target movement by 50% for 2s
+		 • -100% slower firing speed
+
+	Ambassador
+	 • Creeping Bullseye
+		 • Headshots deal an extra +25% damage // 110 instead of 102. Not much.
+
+	Diamondback
+	 • Silver Mod: Quickdraw
+		 • +0% damage penalty
+		 • +50% faster weapon switch
+		 • -67% clip size // 2 shots?
+		 • Killing an enemy with a critical hit will turn your victim into FINE, red mist
+
+	Enforcer
+	 • Bronze Mod: Hollow Point
+		 • +20% damage bonus
+		 • +0% damage bonus while disguised // it's back.
+
 
 Melee
 	Knife
-	 • 
-		 •
+	 • Platinum Mod: Adept Surge
+		 • 200% credit pickup radius
+		 • On Picking up Credits: Gain up to 20 health
+		 • -50 max health on wearer
 
+	BigEarner
+	 • Silver Mod: Infiltrate
+		 • On Kill: Become Invisible for 3s // No longer gains speedboost (Keyword here, invis. You will get hard aggro'd)
+
+	// ConniversKunai
+	// • Conductive Blade
+	//	 • All players connected via Medigun beams are hit
+	//	 • -35% slower weapon switch
+
+	Spycicle
+	 • Gold Mod: Vicious Frost
+		 • Immune to the effects of afterburn // spycicle no longer melts, and you have this for free
+		 • +50% fire damage resistance on wearer
+		 • -25% explosive damage vulnerability on wearer
+	
 PDA
 	Sapper
 	 • 
