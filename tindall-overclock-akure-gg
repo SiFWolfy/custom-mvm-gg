@@ -754,29 +754,151 @@ Melee
 	 • 	Bronze Mod: Lightning Rod
 		 • On Hit: +15% ÜberCharge added
 
-	Amptutator
+	Amputator
 	 • Platinum Mod: Vital Systems Bypass
-		 • On Hit: +15% ÜberCharge added
-		 • On Kill: Drop
+		 • On Hit: +10% ÜberCharge added
+		 • On hit: Apply a healing effect to all nearby teammates // 4s
+		 • Alt-Fire: Applies a defense buff to all nearby teammates // battalion effect from lv2 bomb, cond 42
 
 	Ubersaw
-	 • 
-		 • 
+	 • Gold Mod: Streamlined Form
+		 • +10% faster move speed on wearer
+		 • +25 max health on wearer
+		 • On Hit: -5% ÜberCharge added // does 20% instead of 25%. Is it worth it? Meh.
 
 	VitaSaw
-	 • 
-		 • 
+	 • Platinum Mod: Life Strike
+		 • On Hit: +15% ÜberCharge added
+		 • On Kill: A small health pack is dropped
+		 • +50% health from packs on wearer
+		 • -15 max health on wearer // Max HP is now 125
 
 
 //===============
 Sniper
 //===============
 Primary
+	SniperRifle
+	 • Silver Mod: Sharpshooter
+		 • Headshots deal an extra +20% damage 
+		 • -20% damage on body shot
+
+	BazaarBargain
+	 • Silver Mod: Sharpshooter
+		 • Headshots deal an extra +20% damage 
+		 • -20% damage on body shot
+ 		 • -20% max primary ammo on wearer
+
+	Classic
+	 • Platinum Mod: Speed Trigger
+		 • +40% faster firing speed
+		 • Able to headshot without zoom or charged
+		 • -10% damage on body shot
+		 • -20% damage penalty
+		 • -33% explosive headshot damage penalty // 101 EH
+
+	HitmanHeatmaker
+	 • Gold Mod: Depleted Reload
+		 • +40% faster firing speed
+		 • -20% damage penalty
+		 • -50% explosive headshot damage penalty // 75 EH -- Now triggers Medic uber. It's garbage now. ggwp
+		 • -40% max primary ammo on wearer
+
+	Machina
+	 • Silver Mod: Point Strike
+		 • On Full Charge: +15% damage per shot
+		 • Attacks pierce damage resistance effects and bonuses
+		 • -60% max primary ammo on wearer
+
+	SydneySleeper
+	 • Malignant Force
+		 • Increased headshot explosion radius and applies Jarate to nearby enemies
+		 • +10% damage bonus
+		 • -40% damage on body shot
+
+	Huntsman
+	 • Silver Mod: High Voltage
+		 • All players connected via Medigun beams are hit
+		 • -20% damage penalty
+
+	Fortified Compound
+	 • Platinum Mod: Terminal Velocity
+		 • Arrows bounce of targets and homes in // autotarget speed is 60% slower, homes after 2s
+		 • Projectile penetrate +3 enemies
+		 • -40% damage penalty
+
+Secondary
+	SMG
+	 • Silver Mod: Anaemic Agility
+		 • +60% faster firing speed
+		 • -25% damage penalty
+
+	CleanerCarbine
+	 • Silver Mod: Critical Delay
+		 • -25% slower firing speed
+		 • -20% clip size // 40% .. 15 shots.
+		 • Crits whenever it would normally mini-crit
+
+
+	// Jarate
+	// • Bronze Mod: Enduring Affliction
+	//	 • +80% effect length // wut
+
+	CozyCamper
+	 • Bronze Mod: Ammo Stock
+		 • +20% max primary ammo on wearer
+
+	DarwinDangerShield
+	 • Gold Mod: Blast Shield
+		 • +20% explosive resistance on wearer
+		 • +25 max health on wearer
+
+	Razorback
+	 • Gold Mod: Armoured Recovery
+		 • +30% explosive resistance on wearer
+
+Melee
+	Kukri
+	 • 
+		 •
+
+	Bushwacka
+	 • 
+		 •
+
+	Shahanshah
+	 • 
+		 •
+
+	TribalmanShiv
+	 • 
+		 •
 
 //===============
 Spy
 //===============
 Primary
+	Revolver
+	 • 
+		 •
+
+Melee
+	Knife
+	 • 
+		 •
+
+PDA
+	Sapper
+	 • 
+		 •
+
+	RedTapeRecorder
+	 • 
+		 •
+
+
+
+
 
 //===============
 Civ
