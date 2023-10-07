@@ -1,0 +1,85 @@
+// We will slowly learn from Freightful Fright and improve on it.
+
+// Adv Mischievous Robotics v. Beta 1
+// by SiF @ 2023
+// https://steamcommunity.com/id/SiFWolfy
+// Map by Suna
+
+// Mission Changelog could be found here
+// [github link] wipTBA 
+
+// Beta 1
+// This popfile is written and consists of mostly vanilla bot lineups.
+//
+
+// Overclocks could be read here
+// https://github.com/SiFWolfy/custom-mvm-gg/blob/main/sif-overclocks
+
+// Read about the Custom Weapons Here // wipTBA
+// https://github.com/SiFWolfy/custom-mvm-gg/blob/main/sif-customweps-reduced
+
+// Bot Icons used
+// [Drive link] wipTBA
+// Credits to these people
+// - Icons by both lite and nys
+// - Lua help by #
+
+//spawnbot - middle
+//flankers - right
+//spawnbot_mix - middle & right
+//spawnbot_mission_sniper - left
+
+//tank_path_a_10 -- left, goes to mid then rotate
+//tank_path_b_10 -- right, goes to mid then straight to hatch
+
+// Remind me to "breach" path on mid with A_door_open and B_door_open or the bots will get stuck :c
+
+// SIGMOD Spawns wipTBA
+// spawnbot_left -- tank side spawn
+// spawnbot_redtop -- spawns on sniper nest, top left
+// spawnbot_redfar -- spawns where spy usually spawn in production front, window nav
+// tank_path_c_10 -- custom blimp spawn from right side -- needs work
+
+#base robot_giant.pop
+#base robot_standard.pop
+#base robot_sif.pop
+#base robot_sif_sigmod.pop // 
+//#base overclock_sif.pop // Not ready in this beta ver
+//#base weapons_sif.pop // Intending to pull weapons after the vanilla ver is good to go
+
+WaveSchedule
+{
+	StartingCurrency				550
+	RespawnWaveTime 3
+	Advanced 1
+
+	MaxSpectators 2  [$SIGSEGV]
+  //AllowMultipleSappers 1  [$SIGSEGV] // umm this broke the reprogrammer 
+  BurnTimeFasterBurn 1  [$SIGSEGV] 
+
+  SentryBusterFriendlyFire 0  [$SIGSEGV]
+  //EnableDominations 1  [$SIGSEGV]
+  MedigunShieldDamage 1  [$SIGSEGV]
+  ImprovedAirblast 1  [$SIGSEGV]
+  DisplayRobotDeathNotice 1  [$SIGSEGV]
+  EngineerPushRange -1  [$SIGSEGV]
+
+  SandmanStun 1  [$SIGSEGV]
+  UseOriginalAnimsForUnintendedClassWeapons 1  [$SIGSEGV]
+
+  ForceHoliday 2  [$SIGSEGV]
+  NoThrillerTaunt 1  [$SIGSEGV]
+  NoCritPumpkin 1  [$SIGSEGV]
+  
+  PlayerRobotsUsePlayerAnimation 1   [$SIGSEGV]
+  NoRomevisionCosmetics 1   [$SIGSEGV]
+
+  NoMissionInfo 1  [$SIGSEGV]
+  WaveStartCountdown 5  [$SIGSEGV] // testing
+  
+  
+}
+
+
+
+
