@@ -1,0 +1,183 @@
+// We will slowly learn from Freightful Fright and improve on it.
+
+// Adv Mischievous Robotics v. Beta 1
+// by SiF @ 2023
+// https://steamcommunity.com/id/SiFWolfy
+// Map by Suna
+
+// Mission Changelog could be found here
+// [github link] wipTBA 
+
+// Beta 1
+// This popfile is written and consists of mostly vanilla bot lineups.
+//
+
+// Overclocks could be read here
+// https://github.com/SiFWolfy/custom-mvm-gg/blob/main/sif-overclocks
+
+// Read about the Custom Weapons Here // wipTBA
+// https://github.com/SiFWolfy/custom-mvm-gg/blob/main/sif-customweps-reduced
+
+// Bot Icons used
+// [Drive link] wipTBA
+// Credits to these people
+// - Icons by both lite and nys
+// - Lua help by #
+
+//spawnbot - middle
+//flankers - right
+//spawnbot_mix - middle & right
+//spawnbot_mission_sniper - left
+
+//tank_path_a_10 -- left, goes to mid then rotate
+//tank_path_b_10 -- right, goes to mid then straight to hatch
+
+// Remind me to "breach" path on mid with A_door_open and B_door_open or the bots will get stuck :c
+
+// SIGMOD Spawns wipTBA
+// spawnbot_left -- tank side spawn
+// spawnbot_redtop -- spawns on sniper nest, top left
+// spawnbot_redfar -- spawns where spy usually spawn in production front, window nav
+// tank_path_c_10 -- custom blimp spawn from right side -- needs work
+
+#base robot_giant.pop
+#base robot_standard.pop
+#base robot_sif.pop
+#base robot_sif_sigmod.pop // 
+//#base overclock_sif.pop // Not ready in this beta ver
+//#base weapons_sif.pop // Intending to pull weapons after the vanilla ver is good to go
+
+WaveSchedule
+{
+	StartingCurrency				550
+	RespawnWaveTime 3
+	Advanced 1
+
+	///// Configs /////
+  BurnTimeFasterBurn 1  [$SIGSEGV]
+  DisplayRobotDeathNotice 1  [$SIGSEGV]
+  EngineerPushRange -1  [$SIGSEGV]
+  // AllowMultipleSappers 1  [$SIGSEGV] // umm this broke the reprogrammer
+  // EnableDominations 1  [$SIGSEGV] // it was goofy during testing
+	FixHuntsmanDamageBonus 1  [$SIGSEGV]
+  ForceHoliday 2  [$SIGSEGV] // I wanted to let players to use their unu and stuff
+  ImprovedAirblast 1  [$SIGSEGV] // might disable this
+	MaxSpectators 2  [$SIGSEGV]
+  MedigunShieldDamage 1  [$SIGSEGV]
+  NoCritPumpkin 1  [$SIGSEGV]
+  NoMissionInfo 1  [$SIGSEGV]
+  NoRomevisionCosmetics 1   [$SIGSEGV]
+  NoThrillerTaunt 1  [$SIGSEGV]
+  PlayerRobotsUsePlayerAnimation 1   [$SIGSEGV]
+  SandmanStun 1  [$SIGSEGV]
+	SendBotsToSpectatorImmediately 1 [$SIGSEGV]
+  //SentryBusterFriendlyFire 0  [$SIGSEGV]
+  UseOriginalAnimsForUnintendedClassWeapons 1  [$SIGSEGV]
+  WaveStartCountdown 5  [$SIGSEGV] // speedrun, :3
+
+	// SiF here, I was testing and got tired of these.
+  DisableSound "heavy_mvm_giant_robot01"								[$SIGSEGV]
+	DisableSound "heavy_mvm_giant_robot02"								[$SIGSEGV]
+	DisableSound "heavy_mvm_giant_robot03"								[$SIGSEGV]
+	DisableSound "heavy_mvm_giant_robot04"								[$SIGSEGV]
+	DisableSound "engineer_mvm_giant_robot01"							[$SIGSEGV]
+	DisableSound "engineer_mvm_giant_robot02"							[$SIGSEGV]
+	DisableSound "engineer_mvm_giant_robot03"							[$SIGSEGV]
+	DisableSound "soldier_mvm_giant_robot01"							[$SIGSEGV]
+	DisableSound "soldier_mvm_giant_robot02"							[$SIGSEGV]
+	DisableSound "soldier_mvm_giant_robot03"							[$SIGSEGV]
+	DisableSound "soldier_mvm_giant_robot04"							[$SIGSEGV]
+	DisableSound "medic_mvm_giant_robot01"								[$SIGSEGV]
+	DisableSound "medic_mvm_giant_robot02"								[$SIGSEGV]
+	DisableSound "medic_mvm_giant_robot03"								[$SIGSEGV]
+
+	DisableSound "Announcer.MVM_Get_To_Upgrade"						[$SIGSEGV]
+	DisableSound "Announcer.MVM_Robots_Planted"						[$SIGSEGV]
+	DisableSound "Announcer.MVM_Tank_Planted"							[$SIGSEGV]
+	DisableSound "Announcer.MVM_Tank_Alert_Deploying"			[$SIGSEGV]
+	//DisableSound "Announcer.MVM_Bonus"										[$SIGSEGV]
+
+	DisableSound "MVM.TankPing" // Ow.
+	DisableSound "MVM.Robot_Teleporter_Deliver" // Also Ow.
+
+// This will function as testing ban.
+	ItemBlacklist		[$SIGSEGV]
+	{
+	//DefIndex 41 // Natascha.. Do we even want to talk about this, considering there WAS no super scout?
+	//DefIndex 56 // Huntsman
+	//DefIndex 215	// Degreaser
+	DefIndex 237 // Rocket Jumper..
+	DefIndex 307 // Caber
+	DefIndex 414 // Liberty Launcher
+	DefIndex 442 // Bison
+	DefIndex 588 // Pomson
+	DefIndex 740 // Scorchshot
+	DefIndex 996 // Loose Cannon
+	DefIndex 1005 // 
+	DefIndex 1180 // Gas..
+	DefIndex 1092 // Compound Bow
+	DefIndex 1096 // Classic
+
+	//DefIndex 594	// Phlog
+	//DefIndex 730	// Bazooka
+	//DefIndex 37 // Ubersaw
+	//DefIndex 1003 // ^strange ver of that
+	}
+
+// Banned canteens and other stuff for testing. 
+	DisallowUpgrade "critboost" 						 			[$SIGSEGV]
+	DisallowUpgrade "ubercharge"						 			[$SIGSEGV]
+
+// BETA 2.0 //
+// Apparently some of you were that (st)dupid to the point that I need to manually ban these.
+// I'm not writing an entire upgrade file, but are you fr?
+
+	DisallowUpgrade "engy disposable sentries"		[$SIGSEGV]
+	DisallowUpgrade "airblast pushback scale"			[$SIGSEGV]
+	DisallowUpgrade "weapon burn dmg increased"		[$SIGSEGV]
+	DisallowUpgrade "weapon burn time increased"	[$SIGSEGV]
+	DisallowUpgrade "explode_on_ignite"						[$SIGSEGV] // "Pyro is dead"
+	//DisallowUpgrade "health regen"							[$SIGSEGV] // Are you kidding me? health regen demoknight?
+	DisallowUpgrade "metal regen"									[$SIGSEGV] 
+	//DisallowUpgrade "overheal expert"						[$SIGSEGV] // Feels a bit too petty but mmmmm
+	DisallowUpgrade	[$SIGSEGV]
+	{
+		Upgrade	"generate rage on damage"
+		MaxLevel 1
+		SimilarToItem "TF_WEAPON_MINIGUN"
+	}
+
+	ExtraLoadoutItems [$SIGSEGV]
+	{
+	AllowEquipOutsideSpawn 1
+	}
+
+///// BEGIN MISSION /////
+
+// Wave 1 //
+	Mission
+	{
+	RandomSpawn 1
+	Where spawnbot_mix
+	Where spawnbot
+	Objective DestroySentries
+	InitialCooldown	25
+	CooldownTime 45
+	DesiredCount	1
+	BeginAtWave 1
+//RunForThisManyWaves 1
+	TFBot
+	{
+		Template	T_TFBot_SentrybusterReinforced
+		Name	"Sentry Buster"
+	}
+	}
+
+
+
+
+
+
+
+
+}
