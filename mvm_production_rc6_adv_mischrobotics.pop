@@ -16,7 +16,7 @@
 // https://github.com/SiFWolfy/custom-mvm-gg/blob/main/sif-overclocks
 
 // Read about the Custom Weapons Here // wipTBA
-// https://github.com/SiFWolfy/custom-mvm-gg/blob/main/sif-customweps-reduced
+// 
 
 // Bot Icons used
 // [Drive link] wipTBA
@@ -43,7 +43,7 @@
 #base robot_giant.pop
 #base robot_standard.pop
 #base robot_sif.pop
-#base robot_sif_sigmod.pop // 
+//#base robot_sif_sigmod.pop // 
 //#base overclock_sif.pop // Not ready in this beta ver
 //#base weapons_sif.pop // Intending to pull weapons after the vanilla ver is good to go
 
@@ -97,8 +97,8 @@ WaveSchedule
 	DisableSound "Announcer.MVM_Tank_Alert_Deploying"			[$SIGSEGV]
 	//DisableSound "Announcer.MVM_Bonus"										[$SIGSEGV]
 
-	DisableSound "MVM.TankPing" // Ow.
-	DisableSound "MVM.Robot_Teleporter_Deliver" // Also Ow.
+	DisableSound "MVM.TankPing" // Ow.											[$SIGSEGV]
+	DisableSound "MVM.Robot_Teleporter_Deliver" // Also Ow.	[$SIGSEGV]
 
 // This will function as testing ban.
 	ItemBlacklist		[$SIGSEGV]
@@ -132,6 +132,8 @@ WaveSchedule
 // Apparently some of you were that (st)dupid to the point that I need to manually ban these.
 // I'm not writing an entire upgrade file, but are you fr?
 
+// Do I really need to do some parental guidance and held your paws on what to do?
+
 	DisallowUpgrade "engy disposable sentries"		[$SIGSEGV]
 	DisallowUpgrade "airblast pushback scale"			[$SIGSEGV]
 	DisallowUpgrade "weapon burn dmg increased"		[$SIGSEGV]
@@ -147,14 +149,68 @@ WaveSchedule
 		SimilarToItem "TF_WEAPON_MINIGUN"
 	}
 
+	ItemAttributes	[$SIGSEGV]
+	{
+		ItemName	"The Loose Cannon"
+		"override projectile type" 3 // non-knockback proj
+		"custom projectile model" "models\weapons\w_models\w_cannonball.mdl"
+		"grenade launcher mortar mode"	0
+	}
+	ItemAttributes	[$SIGSEGV]
+	{
+		ItemName	"The Ambassador"
+		"crit_dmg_falloff" 0	// Undo that
+	}
+	ItemAttributes	[$SIGSEGV]
+	{
+		ItemName	"The Scorch Shot" // No
+		"mod flaregun fires pellets with knockback" 1 // detonator proj
+	}
+	ItemAttributes	[$SIGSEGV]
+	{
+		SimilarToItem	"TF_WEAPON_FLAMETHROWER" 
+		"airblast functionality flags" 6 // airblast pushback is now removed
+	}
+
 	ExtraLoadoutItems [$SIGSEGV]
 	{
 	AllowEquipOutsideSpawn 1
 	}
 
+// Templates //
+T_TFBot_SentryBusterReinforced
+{
+	Class Demoman
+	Name "Sentry Buster"
+	Skill Expert
+	Health 2500
+	Item "The Ullapool Caber"
+	WeaponRestrictions MeleeOnly
+	ClassIcon sentry_buster
+	Attributes MiniBoss
+	Attributes IgnoreEnemies // Only target sentry
+	Attributes DisableDodge
+	CharacterAttributes
+	{
+	"move speed bonus" 2
+	"damage force reduction" 0.1
+	"airblast vulnerability multiplier" 0.35 // Should prevent griefing
+	"override footstep sound set" 7
+	"cannot be backstabbed" 1
+	"cannot be sapped" 1
+	//"cannot be headshot" 1
+	"rage giving scale" 0.2
+	}
+	ItemAttributes
+	{
+	ItemName "The Ullapool Caber"
+	"custom kill icon" "pumpkindeath"
+	}
+}
+
 ///// BEGIN MISSION /////
 
-// Wave 1 //
+// Supports //
 	Mission
 	{
 	RandomSpawn 1
@@ -171,6 +227,30 @@ WaveSchedule
 		Template	T_TFBot_SentrybusterReinforced
 		Name	"Sentry Buster"
 	}
+	}
+
+//// WAVE 1 ////
+// Plan: Attempt to misdirect RED to prioritize the wrong upgrades.
+// Break through red defense as a dupid-filter mechanism with early scout on avg money.
+// Spawns
+// x1 Giant Bonk Scout 
+// x1 Batsaber Scout + x42 RandomChoice KOK Eyelander
+// x1 Easy Giant Heavy + Overheal Medics
+
+	Wave
+	{
+		Sound "Announcer.MVM_Manned_Up"
+		StartWaveOutput
+		{
+		Target wave_start_relay
+			Action Trigger
+		}
+		DoneOutput					
+		{
+			Target wave_finished_relay
+			Action trigger
+		}	
+		WaitWhenDone 5
 	}
 
 
