@@ -251,6 +251,14 @@ T_TFBot_SentryBusterReinforced
 			Action trigger
 		}	
 		WaitWhenDone 5
+
+		WaveSpawn	{
+		Name 1a1
+		SpawnCount 1
+		TotalCount 1
+		MaxActive 1
+		TotalCurrency 0
+		
 	}
 
 
