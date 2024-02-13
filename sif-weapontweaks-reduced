@@ -10,10 +10,433 @@ While this was written, it was originally going to be available in the following
 //////
 Scout:
 //////
-Force-a-Nature (Frost Blaster)
+
+Scout Primaries
+-------------------
+Scattergun
+
+Baby Face's Blaster
+
+Backscatter
+
+• Force-a-Nature || (+NEW Frost Blaster)
 +50% faster firing speed
 +20% bullets per shot
-(+NEW) On Hit: 100% chance to slow target
+(+NEW) On Hit: 100% chance to slow target for 2 seconds
 -10% damage penalty
 -66% clip size
 (-OBSOLETE) Knockback on the target and shooter
+
+
+Shortstop
+
+Soda Popper
+
+-------------------
+Scout Secondaries
+-------------------
+Pistol -- Lugermorph -- CAPPER
+
+Pretty Boy's Pocket Pistol
+
+Winger
+
+Bonk! Atomic Punch
+
+Crit-a-Cola
+
+Flying Guillotine
+
+Mad Milk
+
+Mutated Milk
+
+-------------------
+Scout Melee
+-------------------
+Atomizer
+
+Bat -- Batsaber -- Pan -- Crossing Guard
+
+Boston Basher -- Three Rune Blade
+
+Candy Cane
+
+Fan-o-War
+
+Holy Mackerel -- Unarmed Combat
+
+Sandman
+
+Sun on a Stick // Dogshit weapon
+
+Wrap Assassin
+
+-------------------
+Soldier Primaries
+-------------------
+Rocket Launcher
+
+Airstrike
+
+Beggar's Bazooka // 
+
+Black Box
+
+Cowmangler3000
+
+Direct Hit
+
+Liberty Launcher
+
+Rocket Jumper // 
+
+-------------------
+Soldier Secondaries
+-------------------
+Shotgun
+
+Panic Attack
+
+Reserve Shooter
+
+Battalion's Backup
+
+Buff Banner
+
+Concheror
+
+BASE Jumper
+
+Gunboat
+
+Mantreads
+
+Righteous Bison
+
+-------------------
+Soldier Melee
+-------------------
+Shovel
+
+Equalizer
+
+Escape Plan
+
+Disciplinary Action
+
+Half Zatoichi
+
+Market Gardener
+
+Pain Train
+
+-------------------
+Pyro Primary
+-------------------
+Flamethrower
+
+Degreaser
+
+Dragon Furry
+
+Phlogistinator
+
+-------------------
+Pyro Secondaries
+-------------------
+Shotgun
+
+Panic Attack
+
+• Detonator || (Det-Jumper) 
+(+NEW) No self inflicted blast damage taken
+100% mini-crits vs burning players
+-25% damage penalty
++50% damage to self
+Alt-Fire: Detonate flare.
+This weapon will reload automatically when not active.
+
+Flare Gun
+
+Manmelter
+
+Scorch Shot
+
+Gas Passer
+
+Thermal Thruster
+
+-------------------
+Pyro Melee
+-------------------
+Fire Axe
+
+Axtinguisher
+
+Backsratcher
+
+Homewrecker -- Maul
+
+Hot Hand
+
+Neon Annihilator
+
+Powerjack
+
+Third Degree
+
+Volcano Fragment
+
+-------------------
+Demoman Primary
+-------------------
+Grenade Launcher
+
+Iron Bomber 
+
+Loch-n-Load
+
+Loose Cannon
+
+Ali Baba Wee Booties
+
+Bootlegger
+
+-------------------
+Demoman Secondary
+-------------------
+Stickybomb Launcher
+
+Quickibomb Launcher
+
+Scottish Resistance
+
+Chargin' Targe
+
+Splendid Screen
+
+Tide Turner
+
+-------------------
+Demoman Melee
+-------------------
+Bottle
+
+ClaidheamhMor
+
+Eyelander
+
+HHHeadtaker
+
+Nessie Nine Iron
+
+Persian Persuader
+
+Scotsman's Skullcutter
+
+Scottish Handsake
+
+Ullapool Caber
+
+-------------------
+Heavy Primary
+-------------------
+Minigun
+
+Brass beast
+
+Huo-Long Heater
+
+Natascha
+
+Tomislav
+
+-------------------
+Heavy Secondary
+-------------------
+Shotgun
+
+Family Business
+
+Panic Attack
+
+Buffalo Steak Sandvich
+
+Dalokohs Bar
+
+Fish Cake
+
+Second Banana
+
+Sandvich
+
+-------------------
+Heavy Melee
+-------------------
+Fist -- Apoco Fist
+
+Eviction Notice
+
+Fist of Steel
+
+Gloves of Running Urgently -- Bread Bite
+
+Holiday Punch
+
+Killing Gloves of Boxing
+
+Warrior's Spirit
+
+-------------------
+Engineer Primary
+-------------------
+Shotgun
+
+Frontier Justice
+
+Panic Attack
+
+Pomson6000
+
+Rescue Ranger
+
+Widowmaker
+
+-------------------
+Engineer Secondary
+-------------------
+Pistol -- CAPPER
+
+Short Circuit
+
+Wrangler
+
+-------------------
+Engineer Melee
+-------------------
+Wrench
+
+Eureka Effect
+
+Gunslinger
+
+Jag
+
+SouthernHospitality
+
+-------------------
+Medic Primaries
+-------------------
+Syringe Gun
+
+Blutsauger
+
+Crusader's Crossbow
+
+Overdose
+
+-------------------
+Medic Secondaries
+-------------------
+Medigun
+
+Kritzkrieg
+
+QuickFix
+
+Vaccinator
+
+-------------------
+Medic Melee
+-------------------
+Bonesaw
+
+Amputator
+
+Ubersaw
+
+Vitasaw
+
+-------------------
+Sniper Primaries
+-------------------
+Sniper Rifle
+
+Bazaar Bargain
+
+Classic
+
+Hitman's Heatmaker
+
+Machina
+
+Sydney Sleeper
+
+Huntsman
+
+Fortified Compound
+
+-------------------
+Sniper Secondaries 
+-------------------
+
+SMG
+
+Cleaner's Carbine
+
+Jarate
+
+Self-Aware Beauty Mark
+
+Cozy Camper
+
+Darwin's Danger Shield
+
+Razorback
+
+-------------------
+Sniper Melee
+-------------------
+Kukri
+
+Bushwacka
+
+Shahanshah
+
+Tribalman's Shiv
+
+-------------------
+Spy Primary
+-------------------
+Revolver
+
+Ambassador
+
+Diamondback
+
+Enforcer
+
+-------------------
+Spy Secondary
+-------------------
+Knife
+
+Big Earner
+
+Conniver's Kunai
+
+Sharp Dresser
+
+Spycicle
+
+-------------------
+Spy PDA / Buildings
+-------------------
+Sapper // Attempting to recreate EMPs from past events
+// Basically instead of disabling them outright, this will "mess" their shield, aim, etc.
+// Might add TF_COND_LOST_FOOTING, TF_COND_FREEZE_INPUT, or TF_COND_CANNOT_SWITCH_FROM_MELEE
+// to simulate total input loss..
+     ---- EMP Parts ----
+
+Red-Tape Recorder
