@@ -146,11 +146,6 @@ Panic Attack
 
 • Detonator || (Det-Jumper) 
 (+NEW) No self inflicted blast damage taken
-100% mini-crits vs burning players
--25% damage penalty
-+50% damage to self
-Alt-Fire: Detonate flare.
-This weapon will reload automatically when not active.
 
 Flare Gun
 
@@ -223,18 +218,10 @@ ClaidheamhMor
 Eyelander
 
 • HHHeadtaker || Haunted Eyeless Horselessmann's Skulltaker  
-This Weapon has a large melee range and
-deploys and holsters slower
-No random critical hits
-(REMOVED) -25 max health on wearer
--35% damage vulnerability while weapon is active
 (+NEW) Gives increased speed and damage
-with every head you take.
 (REMOVED) Gives increased speed and health
-with every head you take.
-Cursed by dark spirits similar to
-those that dwell within the Eyelander.
-
+(+NEW) -35% damage vulnerability while weapon is active
+(REMOVED) -25 max health on wearer
 
 Nessie Nine Iron
 
