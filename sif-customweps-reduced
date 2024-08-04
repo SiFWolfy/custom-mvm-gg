@@ -2,9 +2,11 @@ This page was was SiF's attempt to make custom MvM a bit more interesting.
 
 While this was written, it was originally going to be available in the following missions;
 • Metro - Subtle Machination (Adv) -- 2024
+• Bogland - INT WIP
 • ? - Traumatization (Exp) Also WIP
 • Saxford - (?) WIP
 • Cyberia - 666(?) WIP
+• Scallops - Exp WIP
 
 While some of them do come with custom base attributes and bots do drop them,
 the weapon cost (to purchase) might vary.
@@ -14,8 +16,8 @@ Scout
 • Custom Weapon: Nailgun // if this sucks, it won't make the beta cut
 • Custom Weapon: Catcher's Mitt
   • Pri-Fire: Reflect projectile back at opponents
-  • Melee hits all opponents in range (cleave)
-  • -?% Health / Vulnerability // need testing
+  • $${\color{lightblue}Light Melee hits all opponents in range (cleave)Blue}$$
+  • $${\color{red} -?% Health / Vulnerability}$$ // need testing
 • Custom Weapon: Sabo-66 (Reimagined cut Gordbot Laser pistol)
 
 Soldier
