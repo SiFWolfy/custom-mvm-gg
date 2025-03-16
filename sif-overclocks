@@ -9,8 +9,64 @@ While this was written, it was originally going to be available in the following
 • Saxford - (?) WIP
 • Cyberia - 666(?) WIP
 
-Doc version with colour codes could be found here.
-[Link to Doc]
+<h2>Page Contents</h2>
+<ul>
+    <li><a href="#scout">Scout</a></li>
+    <ul>
+        <li><a href="#scout-primary">Primary</a></li>
+        <li><a href="#scout-secondary">Secondary</a></li>
+        <li><a href="#scout-melee">Melee</a></li>
+    </ul>
+    <li><a href="#soldier">Soldier</a></li>
+    <ul>
+        <li><a href="#soldier-primary">Primary</a></li>
+        <li><a href="#soldier-secondary">Secondary</a></li>
+        <li><a href="#soldier-melee">Melee</a></li>
+    </ul>
+    <li><a href="#pyro">Pyro</a></li>
+    <ul>
+        <li><a href="#pyro-primary">Primary</a></li>
+        <li><a href="#pyro-secondary">Secondary</a></li>
+        <li><a href="#pyro-melee">Melee</a></li>
+    </ul>
+    <li><a href="#demoman">Demoman</a></li>
+    <ul>
+        <li><a href="#demoman-primary">Primary</a></li>
+        <li><a href="#demoman-secondary">Secondary</a></li>
+        <li><a href="#demoman-melee">Melee</a></li>
+    </ul>
+    <li><a href="#heavy">Heavy</a></li>
+    <ul>
+        <li><a href="#heavy-primary">Primary</a></li>
+        <li><a href="#heavy-secondary">Secondary</a></li>
+        <li><a href="#heavy-melee">Melee</a></li>
+    </ul>
+    <li><a href="#engineer">Engineer</a></li>
+    <ul>
+        <li><a href="#engineer-primary">Primary</a></li>
+        <li><a href="#engineer-secondary">Secondary</a></li>
+        <li><a href="#engineer-melee">Melee</a></li>
+    </ul>
+    <li><a href="#medic">Medic</a></li>
+    <ul>
+        <li><a href="#medic-primary">Primary</a></li>
+        <li><a href="#medic-secondary">Secondary</a></li>
+        <li><a href="#medic-melee">Melee</a></li>
+    </ul>
+    <li><a href="#sniper">Sniper</a></li>
+    <ul>
+        <li><a href="#sniper-primary">Primary</a></li>
+        <li><a href="#sniper-secondary">Secondary</a></li>
+        <li><a href="#sniper-melee">Melee</a></li>
+    </ul>
+    <li><a href="#spy">Spy</a></li>
+    <ul>
+        <li><a href="#spy-primary">Primary</a></li>
+        <li><a href="#spy-secondary">Secondary</a></li>
+        <li><a href="#spy-melee">Melee</a></li>
+        <li><a href="#spy-pda2">PDA2</a></li>
+    </ul>
+</ul>
 
 -------------------
 Scout Primaries
