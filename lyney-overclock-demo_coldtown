@@ -1,1 +1,118 @@
+Lyney' Demo Custom Weps List.
 
+At the time of writing this, these weapons were seen in..
+• Coldtown - 6 Scottish Pentathlon (Easy Adv)
+
+The goal of this list is to be as honest and objective as possible.
+
+Notes:
+This mission were generally mediocre and borderline underwhelming
+to the point where I never really bothered to test for any refund bugs that may not be mentioned here.
+
+Custom Weapon
+
+// NOT SEEN on RELEASE
+
+  • Bouncing Betty (Coldtown) // Ian Hunter's stats, still as busted. Max DMG = 252-756
+      +40% Damage Bonus
+      -40% reduced self damage
+      +100% Projectile Speed
+      Grenades have very little bounce and roll
+      Grenades explode on impact
+
+      -25% Clip Size
+      -50% Slower Firing Speed
+      -30% Grenade Explosion Radius
+      -38% Max Primary Ammo
+      (HIDDEN) -40% self damage force
+      (HIDDEN) No ammo from dispensers when active
+  
+• Grenade Jumper (Coldtown) // No clue where this is from. Seems worthless?
+      Grenades explode on impact
+      +35% Faster holster and deploy
+
+      -100% Damage Penalty
+      -50% Clip Size
+      (HIDDEN) Cannot be upgraded
+
+• Milky Stickybomb (Coldtown) // Utterly worthless. 5 DMG on full upgr.
+      Grenades explode on impact
+
+//===============
+Demoman
+//===============
+
+Body Upgrade:
+	 • 3.($100) +25% Melee Res
+	 • 5.($100) +10 HP 
+
+//===============
+Primary
+  	Grenade Launcher
+	 • Reload Secondary on Hit
+
+  	Loose Cannon
+	 • ($400) Crits on DoubleDonk -- 258 on Max, still a gimmick. Useless one at that.
+
+  	BASE Jumper
+	 • ($250) Steel Parachute // 60% Blast Damage Resistance
+
+//===============
+Secondary
+  Stickybomb Launcher
+	 • Reload Primary on Hit
+
+  Milky Stickybomb 
+	 • On Hit: 10s Slow to target
+
+  Scottish Resistance
+	 • Credits are Autocollected
+
+  Chargin' Targe
+	 • Credits are Autocollected
+	 • +40 health from credits
+	 • ($0) +30% Blast to Bullet -- Useless, mission barely has nondodgeable-hitscanners that are not weak to circling strat.
+    Current Stats:
+    +50% fire damage resistance on wearer
+    +30% bullet damage resistance on wearer
+
+  Tide Turner
+	 • Credits are Autocollected
+	 • +40 health from credits
+	 • ($0) +15% Blast to Bullet -- Direct Upgrade. Most likely.
+    Current Stats:
+    +15% Fire damage resistance on wearer
+    +15% Bullet damage resistance on wearer
+    Full turning control while charging
+    Melee kills refill 75% of your charge meter
+
+    Taking damage while shield charging reduces remaining charging time
+
+  Splendid Screen
+	 • Credits are Autocollected
+	 • +40 health from credits
+	 • ($0) +20% Blast to Bullet -- Eh, mediocre as mentioned above.
+    Current Stats:
+    +20% fire damage resistance on wearer 
+    +20% bullet damage resistance on wearer 
+    +70% increase in charge impact damage 
+    +50% increase in charge recharge rate
+
+//===============
+Melee
+  Global
+	 • 4.($400) +25% Damage Bonus 
+	 • 4.($150) +50% Melee Range 
+
+  Caber
+	 • ($0) Caber Unlimited Bomb -- Still useless, but good attempt. iirc, this still ONLY does 126 DMG. :3
+    Current Stats:
+    The first hit will cause an explosion
+    On Hit: Caber regenerates
+    
+    20% slower firing speed
+    This weapon deploys 100% slower
+    No random critical hits
+
+High-yield Scottish face removal.
+A sober person would throw it...
