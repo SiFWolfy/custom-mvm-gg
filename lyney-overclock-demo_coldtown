@@ -11,9 +11,60 @@ to the point where I never really bothered to test for any refund bugs that may 
 
 Custom Weapon
 
-// NOT SEEN on RELEASE
+//===============
+Primary
+//===============
 
-  • Bouncing Betty (Coldtown) // Ian Hunter's stats, still as busted. Max DMG = 252-756
+// NOT SEEN on RELEASE
+  • Scatterbomb Shotgun (Coldtown) 
+--Pretty strong. This seems untested for what its trying to do. Demo does CRIT Headshots?
+--For the record, this is the TF2C equivalent of "just slap no random crits on it, its balanced now." - SiF
+    // In-game Desc:
+    // "Shotgun do bullet type, can Headshot" - Ian
+      +150% Damage Bonus
+      +Crits on headshot
+      +100% max primary ammo
+      (HIDDEN, COMMENTED OUT) Bullets explodes on impact
+      (HIDDEN, COMMENTED OUT) -95.5% reduced self damage
+      (HIDDEN) Attacks gain bullet as damage type
+
+      No random crits
+      (HIDDEN, COMMENTED OUT) -50% less accurate
+
+// NOT SEEN on RELEASE
+  • Fire ball Cannon (Coldtown) 
+--Would not recommend. If it doesn't crash your game, its incredibly broken. +100 DMG and Burn.
+    // In-game Desc:
+    // "Fire the Fireball instead Grenade, -15% damage" - Lyney
+      +Fires 100 Damage Fireball
+
+      -15% Damage Penalty
+      No random crits -- Fireball cannot do random crit, only minicrit.
+      (HIDDEN) -50% Slower Firing Speed
+
+// NOT SEEN on RELEASE
+  • Nuke Cannon (Coldtown) // "FN | Hazard Warning Grenade Launcher" 
+--Yikes. Nukesalot's mimic weapon. No comment. Read the stats.
+    // In-game Desc:
+    // "Deal 10x damage, Can't be upgrade" - Lyney
+      +90% Damage Bonus
+      +100% Grenade Explosion Radius
+      +40% Faster holster and deploy
+      No Reload Needed
+      (HIDDEN) +300% Projectile Hitbox Size
+      (HIDDEN) This weapon emits ("fluidSmokeExpl_ring_mvm") particles when explodes
+
+      -125% Slower Reload Time
+      -125% Slower Firing Speed
+      -50% increased self damage
+      -0.0375% max primary ammo
+      No random crits
+      (HIDDEN) Weapon cannot be upgraded -- None of the upgrades are purchasable.
+
+  • Bouncing Betty (Coldtown) 
+-- Ian Hunter's stats, still as busted. Max DMG = 252-756
+    // In-game Desc:
+    // "..." - Ian / Lyney
       +40% Damage Bonus
       -40% reduced self damage
       +100% Projectile Speed
@@ -27,7 +78,8 @@ Custom Weapon
       (HIDDEN) -40% self damage force
       (HIDDEN) No ammo from dispensers when active
   
-• Grenade Jumper (Coldtown) // No clue where this is from. Seems worthless?
+• Grenade Jumper (Coldtown) // "FN | Sky Stallion Grenade Launcher" 
+-- No clue where this is from. Seems worthless?
       Grenades explode on impact
       +35% Faster holster and deploy
 
@@ -35,8 +87,40 @@ Custom Weapon
       -50% Clip Size
       (HIDDEN) Cannot be upgraded
 
-• Milky Stickybomb (Coldtown) // Utterly worthless. 5 DMG on full upgr.
-      Grenades explode on impact
+//===============
+Secondary
+//===============
+• Airie Bomber (Coldtown) // "FN | Freedom Wrapped Stickybomb Launcher" 
+--While I understand this is supposed to be the airstrike, it is literally throwing.
+    // In-game Desc:
+    // "Fire faster while blast jumping also -20% radius" - Lyney
+      (DOES NOT EXIST, COMMENTED OUT) Increased attack speed and smaller blast radius while blast jumping
+
+      -20% Stickybomb Explosion Radius
+
+• Milky Stickybomb (Coldtown) // "FN | Gingerbread Winner Stickybomb Launcher" 
+--Utterly worthless. 5 DMG on full upgr. Not full throwing, but still worthless.
+      On Hit: 10s Mad Milked
+      +35% Faster holster and deploy
+      -0.5 sec faster bomb arm time
+      -70% Max charge time
+      -30% reduced self damage
+
+      -90% Damage Penalty
+      -50% Clip Size
+      (HIDDEN) Weapon cannot be upgraded -- DMG, Heal on Kill are too expensive to buy.
+
+• Regen Pack (Coldtown) 
+--On Demo, the Cozy Camper is kind of okay-ish. Maybe you will throw a bit less hard, now.
+    // In-game Desc:
+    // "+20% move speed, +3 health regen and +25% bullet resistance. -30% healing from pack, healer and dispenser" - Lyney
+      +3 health regenerated per second
+      +25% bullet damage resistance
+      +20% Faster Move Speed
+
+      -70% health from packs
+      -70% health from healer and medics
+      (HIDDEN) Weapon cannot be upgraded -- Base weapon is gunboat, cannot purchase anything.
 
 //===============
 Demoman
