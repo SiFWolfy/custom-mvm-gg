@@ -1,1 +1,93 @@
+SiF' Custom Upgrades List
 
+At the time of writing this, these weapons were seen in;
+• Metro - Pseudomachination (Hard Adv) -- 2024
+• Scallops - Desonemebria (Easy Adv) -- 2025
+• Saxford - (?) WIP
+• Cyberia - 666(?) WIP
+Most of these were only available in [REDACTED] servers. Reasoning not issued.
+
+Notes:
+Since they were intended to powerscale towards the intended missions, 
+Most of these were designed to either provide a sidegrade of existing weapons or
+provide a certain niche counterplay to existing robots in said mission.
+
+//===============
+Custom Weapon
+
+//===============
+Body Upgrade:
+	 • 1.($0) Easter Egg :3c -- See Enemy HP, +75% Faster Taunts, Minigun Holster, +150% Credit Magnet Range
+	 • 4.($150) +20% Melee Resistance 
+	 • 3.($150) +33% Faster Holster and Deploy
+	 • 4.($225) +50% Longer Melee Range
+	 • 5.($300) +4 Health regenerated per sec
+	 • 5.($350) +10 Max Health
+
+	 • Scout.RESPAWN.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+      +50% to be instantly respawned instead of dying
+
+      8 sec minimum respawn time
+      Cannot be revived
+	 • Soldier.SPLASH.core // ( +5% DMG for every enemy hit at once | -20% DMG )
+	 	 -- 
+      +50% damage bonus per target splashed
+      +50% damage bonus per target penetrated
+      Projectiles penetrate enemy players
+
+      -20% damage vs players
+	 • Pyro.REFLECT.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+
+	 • Demoman.IMMORTALITY.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+
+	 • Heavy.ENDURANCE.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+
+	 • Engi.MORE.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+
+	 • Medic.PURE.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+
+	 • Sniper.REGEN.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+
+	 • Spy.SPEED.core // ( 50% Instant Respawn | Disables reanimator )
+	 	 -- 
+
+//===============
+Scout
+//===============
+Primary
+  	1. Scattergun
+	 • A) (0$) Uplifter // [ +50 Accuracy | -40% Pellets ]
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      +50% more accurate
+
+      -40% bullets per shot
+	 • B) (200$) Scattercannon // [ +20% More Pellets | Beggar Reload, -33% DMG ]
+	 	 -- 
+      Killstreaks Active, Sheen: Hot
+      Hold Fire to load up to 6 bullets
+      +20% bullets per shot
+
+      -33% damage penalty vs players
+	 • C) (400$) Perceptionist // [ Combo: +40% More Pellets | -20% FireRate ]
+	 	 -- 
+      Killstreaks Active, Sheen: Isotope
+      KillCombo: Gain up to +40% bullets per shot
+      KillCombo: Gain up to +40% faster firing speed
+
+      +20% slower firing speed
+
+  	2. Back Scatter
+	 • A) (0$) Back Breaker // [ | ]
+	 • B) (200$) :3c // [ | ]
+	 • C) (400$) awo // [ | ]
+
+
+----------------
