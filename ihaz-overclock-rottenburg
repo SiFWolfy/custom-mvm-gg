@@ -1,1 +1,154 @@
-a
+ihaz's Scout Custom Upgrade List
+
+At the time of writing this, these weapons were seen in..
+• Rottenburg - Marathon (Easy Adv)
+
+The goal of this list is to be as honest and objective as possible.
+
+Notes:
+While this mission is relatively easy, I do think at least it attempted to try to be unique.
+Most of the custom upgrades were also quite creative.
+
+Custom Weapon
+//===============
+Primary
+//===============
+
+// NOT SEEN on RELEASE
+  • Debug Shotgun (Rottenburg) 
+// hope you can understand my poor english
+-- ok,,, :<
+-- This weapon is no longer accessible, but according to demo its just some kind of 
+-- perma DMG boost and insane crit. Whatever, I guess.
+
+  • Super Shotgun V1 (Rottenburg) 
+  • Super Shotgun V2 (Rottenburg) 
+-- Quite strong on early game, but fell off compared to soda popper and shortstop mid-game.
+-- It appears that the only diff /w v1 and v2, are how the damage scales, for the trade of being innacurate.
+-- Shame, ig. But it does what its designed for. I won't list that dupe here.
+    // In-game Desc:
+    // "Starts out with +30% damage. Rip and Tear!" - ihaz
+      +30% Damage Bonus
+      +50% faster firing speed
+
+      -66% clip size
+      +20% slower reload time
+      -40% max ammo
+      No random crits
+      (HIDDEN) Turns victim to dismembered gibs.
+      (HIDDEN, COMMENTED OUT) -90% less accurate
+
+      This weapon reloads its entire clip at once
+
+//===============
+Scout
+//===============
+Primary
+    2. Backscatter
+	 • Unstable Overclock: Cloaker Tactics // On Kill: 4 seconds of cloak +Crits from behind -46% accurate -25% reload speed -20% firing speed
+-- Potentially strong sidegrade, if not for the slow reload and BAD accuracy.
+    --
+      100% critical hits from behind
+      On Kill: 4s of Invisibility
+      Mini-crits targets when fired at their back from close range
+
+      -34% clip size
+      No random critical hits
+      66% less accurate
+      -25% slower reload time
+      -25% slower firing speed
+
+    4. Force-a-Nature
+	 •  Unstable Overclock: Explosive Rounds // -100% firing speed -10% damage -No special knockback
+-- FAN if it was good. Which is still a low bar compared to Stock and Soda Popper.
+      +50% faster firing speed
+      +90% reduced self damage
+      +80% increase in self push force taken
+      (HIDDEN) Bullets explodes on impact
+      (HIDDEN) This weapon emits ("rd_robot_explosion_smoke_linger") particles when explodes
+
+      -20% damage penalty
+      -90% bullets per shot
+      -66% clip size
+      -100% slower firing speed
+      No Random Crits
+  
+      This weapon reloads its entire clip at once
+
+    5. Shortstop
+	 •  Unstable Overclock: Swarm Missiles // Tap to fire a barrage of weak missiles +75% ammo capacity +50% firing speed +50% clip size -70% blast radius
+-- Kind of underwhelming compared to the base shortstop. Similar to airstrike in terms of scaling.
+-- Stat bloat I would reckon.
+    --
+      +115% damage bonus
+      +90% faster firing speed 
+      +16% clip size
+      +75% max ammo
+      Alt-Fire: Deal 1 damage and shove someone!
+      (HIDDEN) Attacks will fire mini-rockets instead
+      (HIDDEN) Firing will empty the entire clip
+      (HIDDEN, COMMENTED OUT) +40% more accurate
+
+      -50% slower reload time
+      -70% rocket explosion radius
+      No random crits
+      (HIDDEN, COMMENTED OUT) -60% less bullet per shot
+
+      This weapon reloads its entire clip at once.
+      Increase in push force taken from damage and airblast
+
+    6. Soda Popper
+	 • 
+
+//===============
+Secondary
+    1. Pistol
+	 • Balanced Overclock: Critical Combo // On Kill: 5 seconds of critical hits +25% damage +100% ammo capacity -Is honorbound
+-- Broken. No doubt. Broken. Secondaries should only cap at free minicrits.
+    -- 
+      On Kill: 5s of Critboost
+      +25% damage bonus
+      +100% max ammo
+
+      Honourbound: Once drawn, pistolwhip yourself for 50 damage to yourself, unless it kills
+
+    3. Winger
+	 • Balanced Overclock: Royal Flight // Alt-Fire to dash forward every 3 seconds +400 stomp damage -25% jump height while active
+-- Cool gimmick. Unfortunately 400 dmg every 3 sec, is nothing in MvM. Scout has a gun.
+    --
+      +15% damage bonus
+      +25% greater jump height when active
+      Deals 3x falling damage to the player you land on
+      +100% increased falling damage force
+
+      -60% clip size
+
+    4. Bonk! Atomic Punch
+	 • Balanced Overclock: Temporary Quick-Fix Uber // Replaces bonk effect with temporary Quick-Fix Uber
+-- 
+    --
+      Drink to heal to full for 8 seconds. 
+
+    6. Flying Guillotine
+	 • Balanced Overclock: 4000 Degrees Knife // Always deals critical damage -30% primary ammo capacity
+-- Weak, but niche Combo finisher vs vacc meds in this mission.
+    --
+      100% critical hits from anywhere
+      Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+
+      No random critical hits
+
+    7. Mad Milk
+	 • Unstable Overclock: Spicy Milk // Replaces milk effect with a high damage fireball
+-- Unironically strong sidegrade that OTK a decent chunk of bullet-res squishies in this mission.
+    --
+      (HIDDEN) Attacks will launch 30 DMG fireball
+
+      -70% damage penalty vs players
+      -50% damage penalty vs giants
+
+//===============
+Melee
+    
+
+----------------
