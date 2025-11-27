@@ -1,4 +1,4 @@
-ihaz's Scout Custom Upgrade List
+	ihaz's Scout Custom Upgrade List
 
 At the time of writing this, these weapons were seen in..
 • Rottenburg - Marathon (Easy Adv)
@@ -149,6 +149,60 @@ Secondary
 
 //===============
 Melee
-    
+    1. Bat
+	 • Perk: Overkill // +30% base health on kill +500% damage -200% swing speed
+-- 175~ base DMG, 600~ crit. Has its niche on certain comp, but shame - it doesn't solve bison and DF bots.
+    -- 
+      +500% damage bonus
+      On Kill: Gain +30 health on attack
+      +80% crit damage resistance while deployed
+
+      -75% crit damage multiplier
+      -100% slower firing speed
+      Random Crits	
+
+    4. Candy Cane
+	 • Clean Overclock: Shine // Attacks reflects projectiles +Blast vulnerability is activated while active +30% blast radius -60% swing speed
+-- Neat gimmick. Shame there aren't really that many reflectable projectiles in this mission when it gets good.
+    -- 
+      On Kill: A small health pack is dropped
+      +30% reflected rocket explosion radius
+
+      +50% explosive damage vulnerability when deployed
+      -40% slower firing speed
+
+    6. Sandman
+	 • Clean Overclock: Sportsman Pride // On Hit: Gain Concheror Effect for 4 seconds +15 max health -40% slower swing speed
+-- Clean Sidegrade to Gunbai. No issue with this tbh.
+    -- 
+    Alt-Fire: Launches a ball that slows opponents
+    On Hit: 4s Concheror boost
+
+    -40% slower firing speed
+
+    7. Sun-on-Stick // +50% base health on kill +500% damage +Speedboost on kill -200% swing speed -Extinguishes targets
+	 • Perk: Sun God
+-- Gimmick. Axtinguisher.
+    -- 
+      100% critical hit vs burning players
+      +25% fire damage resistance while deployed
+      +475% damage bonus
+      On Kill: Gain +30 health on attack
+      On Kill: 4s Speedboost
+      Mini-crits burning targets and extinguishes them
+
+      -100% slower firing speed
+      Random Crits	
+
+    8. Wrap Assassin
+	 • Balanced Overclock: Milky Balls // Applies milk for 2 seconds -30% health from packs
+-- Sidegrade to Milk Pretty much. Except, it's just kind of mediocre. Straight upgrade.
+    -- 
+    +25% increase in recharge rate
+    Alt-Fire: Launches a festive ornament that shatters causing bleed
+    On Hit: target is  Mad Milked for 5s
+
+    -65% damage penalty
+    -30 max health on wearer
 
 ----------------
