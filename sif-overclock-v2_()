@@ -30,6 +30,7 @@ Body Upgrade:
 
       8 sec minimum respawn time
       Cannot be revived
+
 	 • Soldier.SPLASH.core // ( +5% DMG for every enemy hit at once | -20% DMG )
 	 	 -- 
       +50% damage bonus per target splashed
@@ -37,26 +38,52 @@ Body Upgrade:
       Projectiles penetrate enemy players
 
       -20% damage vs players
-	 • Pyro.REFLECT.core // ( 50% Instant Respawn | Disables reanimator )
-	 	 -- 
 
-	 • Demoman.IMMORTALITY.core // ( 50% Instant Respawn | Disables reanimator )
+	 • Pyro.REFLECT.core // ( -50% Airblast Cooldown | Airblast Cannot Push )
 	 	 -- 
+      -50% airblast cooldown
+      Airblast gives teammates speedbost
+      Reflected projectile gain +200% speed and stuns enemies
 
-	 • Heavy.ENDURANCE.core // ( 50% Instant Respawn | Disables reanimator )
-	 	 -- 
+      Airblast push disabled
 
-	 • Engi.MORE.core // ( 50% Instant Respawn | Disables reanimator )
+	 • Demoman.IMMORTALITY.core // ( Instakill Immunity | +35% Vulnerability )
 	 	 -- 
+      Deathblow Immune: Be put at 1 HP when about to die, unless already triggered
 
-	 • Medic.PURE.core // ( 50% Instant Respawn | Disables reanimator )
-	 	 -- 
+      -35% damage vulnerability
+      -50% crit damage vulnerability
 
-	 • Sniper.REGEN.core // ( 50% Instant Respawn | Disables reanimator )
+	 • Heavy.ENDURANCE.core // ( +50 HP | -20% Speed )
 	 	 -- 
+      +50 max health
 
-	 • Spy.SPEED.core // ( 50% Instant Respawn | Disables reanimator )
+      -20% slower move speed
+
+	 • Engi.MORE.core // ( +50 Metal Regen, +2 Mini | -50 Max Metal )
 	 	 -- 
+      +2 Maximum buildable disposable Sentry 
+      +50 metal regenerated per sec
+
+      -50 less maximum metal
+
+	 • Medic.PURE.core // ( +25% More Heal | You: -100% Overheal )
+	 	 -- 
+      +25% heal rate
+
+      -100% maximum overheal
+
+	 • Sniper.REGEN.core // ( +15% Ammo Regen | -40% Ammo )
+	 	 -- 
+      +15% ammo regenerated per sec
+
+      -40% maximum ammo
+
+	 • Spy.SPEED.core // ( +20% Speed | Self-Marked )
+	 	 -- 
+      +20% faster move speed
+
+      You are Marked-For-Death 
 
 //===============
 Scout
@@ -85,7 +112,66 @@ Primary
       +20% slower firing speed
 
   	2. Back Scatter
-	 • A) (0$) Back Breaker // [ | ]
+	 • A) (0$) Back Breaker // [ On Kill: 3s Partial Invisibility + Speedboost ]
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      100% Mini-crits from behibd
+      On Kill: 3s Cloak	
+
+      -34% clip size
+      No random critical hits
+
+	 • B) (200$) Lever Rifle // [ On Headshot: Crit | -99% Less Pellets, -32% Clip ]
+	 	 -- 
+      Killstreaks Active, Sheen: Hot
+      100% Crits on headshot
+
+      -66% clip size
+      No random critical hits
+      -90% bullets per shot
+
+	 • C) (400$) Recon Ambusher // [ On Backshot: Crit | -66% DMG on non-crit, +25% Reload ]
+      Killstreaks Active, Sheen: Isotope
+      100% Crits from behind
+      +195% Crits damage multiplier
+
+      -34% clip size
+      -20% less accurate
+      No random critical hits
+      -66% DMG vs players
+      -25% slower reload time
+
+  	3. Babyface's Blaster
+ 	• A) (0$) Public Enemy // [ Speedboost on Hit, Fall Immunity | No Double Jump ]
+      On Hit: 5s Speedboost
+      On Hit: Builds Boost
+      Run speed increased with Boost
+
+      -34% clip size
+      10% slower move speed on wearer
+      Cannot Double Jump
+      Never takes falling damage
+
+	 • B) (200$) Dispatcher 2012 // [ Speedboost not lost, +40% Accuracy | -30% DMG, -25% Move Speed ]
+      On Hit: Builds Boost
+      Run speed increased with Boost
+      +40% more accurate
+
+      -30% damage penalty
+      -34% clip size
+      -35% slower move speed on wearer
+
+	 • C) (400$) Sneezer Blaster 2013 // [ +40% Faster Fire Rate, +34% Clip | -25% Reload, Beggar Reload ]
+      On Hit: Builds Boost
+      Run speed increased with Boost
+      Hold Fire to load up to 6 bullets
+      +40% faster firing speed
+
+      -10% slower move speed on wearer
+      +25% slower reload time
+      Boost reduced on air jumps
+
+ 	• A) (0$) abababa // [ | ]
 	 • B) (200$) :3c // [ | ]
 	 • C) (400$) awo // [ | ]
 
