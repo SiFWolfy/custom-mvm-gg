@@ -89,7 +89,7 @@ Body Upgrade:
 Scout
 //===============
 Primary
-  	1. Scattergun
+1. Scattergun
 	 • A) (0$) Uplifter // [ +50 Accuracy | -40% Pellets ]
 	 	 -- 
       Killstreaks Active, Sheen: Cool
@@ -111,7 +111,7 @@ Primary
 
       +20% slower firing speed
 
-  	2. Back Scatter
+2. Back Scatter
 	 • A) (0$) Back Breaker // [ On Kill: 3s Partial Invisibility + Speedboost ]
 	 	 -- 
       Killstreaks Active, Sheen: Cool
@@ -131,6 +131,7 @@ Primary
       -90% bullets per shot
 
 	 • C) (400$) Recon Ambusher // [ On Backshot: Crit | -66% DMG on non-crit, +25% Reload ]
+	 	 -- 
       Killstreaks Active, Sheen: Isotope
       100% Crits from behind
       +195% Crits damage multiplier
@@ -141,8 +142,10 @@ Primary
       -66% DMG vs players
       -25% slower reload time
 
-  	3. Babyface's Blaster
+3. Babyface's Blaster
  	• A) (0$) Public Enemy // [ Speedboost on Hit, Fall Immunity | No Double Jump ]
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
       On Hit: 5s Speedboost
       On Hit: Builds Boost
       Run speed increased with Boost
@@ -153,6 +156,8 @@ Primary
       Never takes falling damage
 
 	 • B) (200$) Dispatcher 2012 // [ Speedboost not lost, +40% Accuracy | -30% DMG, -25% Move Speed ]
+	 	 -- 
+      Killstreaks Active, Sheen: Hot
       On Hit: Builds Boost
       Run speed increased with Boost
       +40% more accurate
@@ -162,6 +167,8 @@ Primary
       -35% slower move speed on wearer
 
 	 • C) (400$) Sneezer Blaster 2013 // [ +40% Faster Fire Rate, +34% Clip | -25% Reload, Beggar Reload ]
+	 	 -- 
+      Killstreaks Active, Sheen: Isotope
       On Hit: Builds Boost
       Run speed increased with Boost
       Hold Fire to load up to 6 bullets
@@ -171,9 +178,14 @@ Primary
       +25% slower reload time
       Boost reduced on air jumps
 
+4. Force a Nature
+5. Shortstop
+6. Soda Popper
+
  	• A) (0$) abababa // [ | ]
 	 • B) (200$) :3c // [ | ]
 	 • C) (400$) awo // [ | ]
+
 
 
 ----------------
