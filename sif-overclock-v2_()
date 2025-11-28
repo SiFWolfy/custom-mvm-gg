@@ -90,10 +90,11 @@ Scout
 //===============
 Primary
 1. Scattergun
-	 • A) (0$) Uplifter // [ +50 Accuracy | -40% Pellets ]
+	 • A) (0$) Uplifter // [ +50 Accuracy, HP from $ | -40% Pellets ]
 	 	 -- 
       Killstreaks Active, Sheen: Cool
       +50% more accurate
+      +50 health from credits
 
       -40% bullets per shot
 	 • B) (200$) Scattercannon // [ +20% More Pellets | Beggar Reload, -33% DMG ]
@@ -202,7 +203,6 @@ Primary
 	 	 -- 
       Killstreaks Active, Sheen: Isotope
       +50% faster firing speed
-      +20% bullets per shot
       (HIDDEN) Bullets explodes on impact
  
       -10% damage penalty
@@ -211,9 +211,38 @@ Primary
 
 5. Shortstop
 
- 	• A) (0$) abababa // [ | ]
-	 • B) (200$) :3c // [ | ]
-	 • C) (400$) awo // [ | ]
+ 	• A) (0$) Special Deliverer // [ +25 HP, $ Magnet Range, On Hit: 3s Milked | Cannot Shove ]
+	 	 -- 
+      +40% more accurate
+      +100% damage bonus 
+      +40% faster firing speed
+      +25 max health
+      +150% increased credit magnet
+      On Hit: 4s Mad Milked
+
+      -50% slower reload time
+      34% clip size
+      -60% less bullet per shot
+      
+	 • B) (200$) Nailgun // [ Fires ‘milk’ Nails, 500% Clip, +35% DMG | -40% Fire Rate, +50% Reload, -80% Overheal ]
+	 	 -- 
+      +135% damage bonus 
+      Alt-Fire: Deal 1 damage and shove someone!
+      (HIDDEN) Attacks will fire nails instead
+      +466% clip size
+      +525% ammo
+
+      -100% slower reload time
+      -80% max overheal
+    
+	 • C) (400$) Pepperer // [ +35% DMG, +50% Reload | Cannot Shove ]
+	 	 -- 
+      +40% more accurate
+      +135% damage bonus 
+      +40% faster firing speed
+
+      34% clip size
+      -60% less bullet per shot
 
 6. Soda Popper
  	• A) (200$) Byte Reminder // [ Become Armored Scout | -40% DMG, -75% Reload ]
@@ -251,7 +280,7 @@ Primary
 
 //===============
 Secondary
-
+1. Pistol
 
 TEMPLATE
  	• A) (0$) abababa // [ | ]
