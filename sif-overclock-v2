@@ -312,29 +312,56 @@ Secondary
 	 	 -- 
       Killstreaks Active, Sheen: Cool
       +15% faster firing speed
-      On Hit: Gain +12 health
+      On Hit: Gain +12 health	
+      Never takes falling damage
 
       -25% clip size
+      +20% damage vulnerability
 
-	 • B) Flamboyant Concealer ( On Hit: 5s Milked | -66% DMG  )
+	 • B) Flamboyant Concealer ( On Hit: 3s Milked | -66% DMG )
 	 	 -- 
-      Killstreaks Active, Sheen: Cool
+      Killstreaks Active, Sheen: Hot
       +15% faster firing speed
       On Hit: Gain up to +3 health
+      On Hit: 3s Mad Milked
 
+      -66% damage penalty
       -25% clip size
 
 	 • C) Boston’s Arms ( On Hit: AoE overheal +6 | -1 HP Degen per second )
 	 	 -- 
-      Killstreaks Active, Sheen: Cool
+      Killstreaks Active, Sheen: Isotope
       +15% faster firing speed
       On Hit: Gain up to +3 health
+      On Hit: Share +6 HP with nearby friend
 
       -25% clip size
+      -1 health degenerated per sec
 
 3. Winger
+ 	• A) (0$) Airborne Annihilator // ( Crit vs Airborne | -25% Fire Rate )
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      +15% damage bonus
+      +25% greater jump height when active
+      -60% clip size
+
+	 • B) (200$) Kinetic Dash // ( Minicrits if Airborne, Fall Immunity | Cannot Double Jump )
+	 	 -- 
+      +15% damage bonus
+      +25% greater jump height when active
+      -60% clip size
+
+	 • C) (400$) Eagl Deagle // ( On Headshot: Massive Crit | -18% Clip Size )
+	 	 -- 
+      +15% damage bonus
+      +25% greater jump height when active
+      -60% clip size
+
 4. Bonk! Atomic Punch
 5. Crit-a-Cola
+6. Flying Guillotine
+7. Mad Milk
 
 TEMPLATE
  	• A) (0$) abababa // [ | ]
