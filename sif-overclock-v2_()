@@ -143,7 +143,7 @@ Primary
       -25% slower reload time
 
 3. Babyface's Blaster
- 	• A) (0$) Public Enemy // [ Speedboost on Hit, Fall Immunity | No Double Jump ]
+ 	• A) (0$) Public Enemy // [ Speedboost on Hit, Fall Immunity | No Double Jump, -40% Fire Rate ]
 	 	 -- 
       Killstreaks Active, Sheen: Cool
       On Hit: 5s Speedboost
@@ -151,6 +151,7 @@ Primary
       Run speed increased with Boost
 
       -34% clip size
+      +40% slower firing speed
       10% slower move speed on wearer
       Cannot Double Jump
       Never takes falling damage
@@ -163,8 +164,8 @@ Primary
       +40% more accurate
 
       -30% damage penalty
-      -34% clip size
       -35% slower move speed on wearer
+      -34% clip size
 
 	 • C) (400$) Sneezer Blaster 2013 // [ +40% Faster Fire Rate, +34% Clip | -25% Reload, Beggar Reload ]
 	 	 -- 
@@ -179,13 +180,85 @@ Primary
       Boost reduced on air jumps
 
 4. Force a Nature
+	 • A) (0$) Blast-a-Nature // [ x8 more Knockback | -56% DMG, -20% Less Pellets ]
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      +50% faster firing speed
+      +800% Knockback on the target and shooter
+ 
+      -66% damage penalty
+      -66% clip size
+
+	 • B) (200$) Lucky Shot // [ +20% More Pellets | -90% Clip Size, No Knockback ]
+	 	 -- 
+      Killstreaks Active, Sheen: Hot
+      +50% faster firing speed
+      +40% bullets per shot
+ 
+      -10% damage penalty
+      -85% clip size
+
+	 • C) (400$) Double Barrel // [ Bullets Explode! | -100% Reload, No Knockback ]
+	 	 -- 
+      Killstreaks Active, Sheen: Isotope
+      +50% faster firing speed
+      +20% bullets per shot
+      (HIDDEN) Bullets explodes on impact
+ 
+      -10% damage penalty
+      -66% clip size
+      -100% slower reload time
+
 5. Shortstop
-6. Soda Popper
 
  	• A) (0$) abababa // [ | ]
 	 • B) (200$) :3c // [ | ]
 	 • C) (400$) awo // [ | ]
 
+6. Soda Popper
+ 	• A) (200$) Byte Reminder // [ Become Armored Scout | -40% DMG, -75% Reload ]
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      +50% faster firing speed
+      +500 max health
 
+      -66% clip size
+      -40% damage penalty
+      -50% slower reload time
+      -30% reduction in push force taken
+
+	 • B) (0$) Cola Popper // [ Hype: Minicrit | -25% Fire Rate ]
+	 	 -- 
+      Killstreaks Active, Sheen: Hot
+      +25% faster firing speed
+      25% faster reload time
+      On Hit: Builds Hype
+      Hype: 10s of Minicritboost
+
+      -66% clip size
+
+	 • C) (400$) Full Spectrum // [ On Kill: 2s DMG=Missing HP, Hype: Precision | -15% DMG ]
+	 	 -- 
+      Killstreaks Active, Sheen: Isotope
+      +50% faster firing speed
+      25% faster reload time
+      On Hit: Builds Hype
+      Hype: 10s of Precision
+      On Kill: 2s 9% damage bonus based off missing health
+
+      -15% damage penalty
+      -66% clip size
+
+//===============
+Secondary
+
+
+TEMPLATE
+ 	• A) (0$) abababa // [ | ]
+	 	 -- 
+	 • B) (200$) :3c // [ | ]
+	 	 -- 
+	 • C) (400$) awo // [ | ]
+	 	 -- 
 
 ----------------
