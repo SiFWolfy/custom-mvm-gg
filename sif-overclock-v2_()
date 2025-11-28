@@ -234,8 +234,29 @@ Primary
 
       -100% slower reload time
       -80% max overheal
-    
-	 • C) (400$) Pepperer // [ +35% DMG, +50% Reload | Cannot Shove ]
+
+	• C) (200$) Saboteur-66 // [ Fires Kosmil Laser, +160% Fire Rate | -150% Reload, -25% DMG, Laser dissipates ]
+	 	 -- 
+      +75% damage bonus 
+      Alt-Fire: Deal 1 damage and shove someone!
+      (HIDDEN) Attacks will fire igniting bison laser instead
+      +200% faster firing speed
+
+      -250% slower reload time
+      -50% laser lifetime
+
+	• D) (200$) Flechette Shock // [ Fires Rockets, +134% Clip Size, +60% Fire Rate | -65% Rocket Splash ]
+	 	 -- 
+      +135% damage bonus 
+      +100% clip size
+      Alt-Fire: Deal 1 damage and shove someone!
+      (HIDDEN) Attacks will fire rockets instead
+      +60% faster firing speed
+
+      -100% slower reload time
+      -65% rocket explosion radius
+
+	 • E) (400$) Pepperer // [ +35% DMG, +50% Reload | Cannot Shove ]
 	 	 -- 
       +40% more accurate
       +135% damage bonus 
@@ -281,6 +302,39 @@ Primary
 //===============
 Secondary
 1. Pistol
+	 • 4.+25% Damage Upgrade
+	 • Minicrit on Kill ( -50% Primary Ammo )
+	 • Minicrit on Headshot ( -75% Fire Rate )
+	 	 -- 
+
+2. Pretty Boy’s Pocket Pistol
+	 • A) Bleak Ruffian ( On Hit: +9 HP, Fall Immunity | -20% Global Vulnerability )
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      +15% faster firing speed
+      On Hit: Gain +12 health
+
+      -25% clip size
+
+	 • B) Flamboyant Concealer ( On Hit: 5s Milked | -66% DMG  )
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      +15% faster firing speed
+      On Hit: Gain up to +3 health
+
+      -25% clip size
+
+	 • C) Boston’s Arms ( On Hit: AoE overheal +6 | -1 HP Degen per second )
+	 	 -- 
+      Killstreaks Active, Sheen: Cool
+      +15% faster firing speed
+      On Hit: Gain up to +3 health
+
+      -25% clip size
+
+3. Winger
+4. Bonk! Atomic Punch
+5. Crit-a-Cola
 
 TEMPLATE
  	• A) (0$) abababa // [ | ]
