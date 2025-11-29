@@ -154,7 +154,7 @@ Primary
       -34% clip size
       +40% slower firing speed
       10% slower move speed on wearer
-      Cannot Double Jump
+      No Double Jump
       Never takes falling damage
 
 	 • B) (200$) Dispatcher 2012 // [ Speedboost not lost, +40% Accuracy | -30% DMG, -25% Move Speed ]
@@ -234,6 +234,7 @@ Primary
 
       -100% slower reload time
       -80% max overheal
+      No random Crits
 
 	• C) (200$) Saboteur-66 // [ Fires Kosmil Laser, +160% Fire Rate | -150% Reload, -25% DMG, Laser dissipates ]
 	 	 -- 
@@ -244,6 +245,7 @@ Primary
 
       -250% slower reload time
       -50% laser lifetime
+      No random Crits
 
 	• D) (200$) Flechette Shock // [ Fires Rockets, +134% Clip Size, +60% Fire Rate | -65% Rocket Splash ]
 	 	 -- 
@@ -255,6 +257,7 @@ Primary
 
       -100% slower reload time
       -65% rocket explosion radius
+      No random Crits
 
 	 • E) (400$) Pepperer // [ +35% DMG, +50% Reload | Cannot Shove ]
 	 	 -- 
@@ -344,19 +347,32 @@ Secondary
       Killstreaks Active, Sheen: Cool
       +15% damage bonus
       +25% greater jump height when active
-      -60% clip size
+      +100% Crits vs Airborne targets
 
-	 • B) (200$) Kinetic Dash // ( Minicrits if Airborne, Fall Immunity | Cannot Double Jump )
+      -60% clip size
+      -25% slpwer firing speed
+
+	 • B) (200$) Kinetic Dash // ( Minicrits if Airborne, Falling Stomp Immunity | No Double Jump )
 	 	 -- 
+      Killstreaks Active, Sheen: Hot
       +15% damage bonus
       +25% greater jump height when active
-      -60% clip size
+      +100% Minicrits while Airborne
+      Never takes falling damage
+      Deals increased falling damage to the player you land on
 
-	 • C) (400$) Eagl Deagle // ( On Headshot: Massive Crit | -18% Clip Size )
-	 	 -- 
-      +15% damage bonus
-      +25% greater jump height when active
       -60% clip size
+      No double jump
+
+	 • C) (400$) Eagl Deagle // ( On Headshot: Massive Crit | -18% Clip Size, -25% Jump Height )
+	 	 -- 
+      Killstreaks Active, Sheen: Isotope
+      +15% damage bonus
+      100% Crits on headshot
+      +470% Crit damage bonus
+
+      -78% clip size
+      No random Crits
 
 4. Bonk! Atomic Punch
 5. Crit-a-Cola
