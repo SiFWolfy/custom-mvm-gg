@@ -311,7 +311,7 @@ Secondary
 	 	 -- 
 
 2. Pretty Boy’s Pocket Pistol
-	 • A) Bleak Ruffian ( On Hit: +9 HP, Fall Immunity | -20% Global Vulnerability )
+	 • A) (0$) Bleak Ruffian ( On Hit: +9 HP, Fall Immunity | -20% Global Vulnerability )
 	 	 -- 
       Killstreaks Active, Sheen: Cool
       +15% faster firing speed
@@ -321,7 +321,7 @@ Secondary
       -25% clip size
       +20% damage vulnerability
 
-	 • B) Flamboyant Concealer ( On Hit: 3s Milked | -66% DMG )
+	 • B) (0$) Flamboyant Concealer ( On Hit: 3s Milked | -66% DMG )
 	 	 -- 
       Killstreaks Active, Sheen: Hot
       +15% faster firing speed
@@ -331,7 +331,7 @@ Secondary
       -66% damage penalty
       -25% clip size
 
-	 • C) Boston’s Arms ( On Hit: AoE overheal +6 | -1 HP Degen per second )
+	 • C) (0$) Boston’s Arms ( On Hit: AoE overheal +6 | -1 HP Degen per second )
 	 	 -- 
       Killstreaks Active, Sheen: Isotope
       +15% faster firing speed
@@ -352,7 +352,7 @@ Secondary
       -60% clip size
       -25% slpwer firing speed
 
-	 • B) (200$) Kinetic Dash // ( Minicrits if Airborne, Falling Stomp Immunity | No Double Jump )
+	 • B) (0$) Kinetic Dash // ( Minicrits if Airborne, Falling Stomp Immunity | No Double Jump )
 	 	 -- 
       Killstreaks Active, Sheen: Hot
       +15% damage bonus
@@ -375,9 +375,75 @@ Secondary
       No random Crits
 
 4. Bonk! Atomic Punch
+ 	• A) (0$) Resilient Simmer // [ | ]
+	 	 -- 
+      Drink to become invulnerable for 8 seconds. Cannot attack during this time.
+      Damage absorbed will slow you when the effect ends.
+
+	 • B) (0$) Spectral Fizz // [ | ]
+	 	 -- 
+      Drink to become invulnerable for 8 seconds. Cannot attack during this time.
+      Damage absorbed will slow you when the effect ends.
+
+	 • C) (0$) Anchor! Punch // [ | ]
+	 	 -- 
+      Drink to become invulnerable for 8 seconds. Cannot attack during this time.
+      Damage absorbed will slow you when the effect ends.
+
 5. Crit-a-Cola
+ 	• A) (0$) Resilient Simmer // [ | ]
+	 	 -- 
+      While effect is active: Each attack mini-crits and sets Marked-For-Death for 5 seconds.
+
+	 • B) (0$) Spectral Fizz // [ | ]
+	 	 -- 
+      While effect is active: Each attack mini-crits and sets Marked-For-Death for 5 seconds.
+
+	 • C) (0$) Anchor! Punch // [ | ]
+	 	 -- 
+      While effect is active: Each attack mini-crits and sets Marked-For-Death for 5 seconds.
+
 6. Flying Guillotine
+ 	• A) (0$) Resilient Simmer // [ | ]
+	 	 -- 
+      Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+      No random critical hits
+
+	 • B) (0$) Spectral Fizz // [ | ]
+	 	 -- 
+      Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+      No random critical hits
+
+	 • C) (0$) Anchor! Punch // [ | ]
+	 	 -- 
+      Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+      No random critical hits
+
 7. Mad Milk
+ 	• A) (0$) Resilient Simmer // [ | ]
+	 	 -- 
+      Extinguishing teammates reduces cooldown by -20%
+      Players heal 60% of the damage done
+      to an enemy covered with milk.
+      Can be used to extinguish fires.
+
+	 • B) (0$) Spectral Fizz // [ | ]
+	 	 -- 
+      Extinguishing teammates reduces cooldown by -20%
+      Players heal 60% of the damage done
+      to an enemy covered with milk.
+      Can be used to extinguish fires.
+
+	 • C) (0$) Anchor! Punch // [ | ]
+	 	 -- 
+      Extinguishing teammates reduces cooldown by -20%
+      Players heal 60% of the damage done
+      to an enemy covered with milk.
+      Can be used to extinguish fires.
+
+//===============
+Melee
+1. Buh
 
 TEMPLATE
  	• A) (0$) abababa // [ | ]
