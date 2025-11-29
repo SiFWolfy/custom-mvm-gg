@@ -305,13 +305,13 @@ Primary
 //===============
 Secondary
 1. Pistol
-	 • 4.+25% Damage Upgrade
-	 • Minicrit on Kill ( -50% Primary Ammo )
-	 • Minicrit on Headshot ( -75% Fire Rate )
+	 • 4.(400$) +25% Damage Upgrade
+	 • (200$) Minicrit on Kill [ -50% Primary Ammo ]
+	 • (200$) Minicrit on Headshot [ -75% Fire Rate ]
 	 	 -- 
 
 2. Pretty Boy’s Pocket Pistol
-	 • A) (0$) Bleak Ruffian ( On Hit: +9 HP, Fall Immunity | -20% Global Vulnerability )
+	 • A) (0$) Bleak Ruffian [ On Hit: +9 HP, Fall Immunity | -20% Global Vulnerability ]
 	 	 -- 
       Killstreaks Active, Sheen: Cool
       +15% faster firing speed
@@ -321,17 +321,17 @@ Secondary
       -25% clip size
       +20% damage vulnerability
 
-	 • B) (0$) Flamboyant Concealer ( On Hit: 3s Milked | -66% DMG )
+	 • B) (0$) Flamboyant Concealer [ On Hit: 3s Milked | -66% DMG ]
 	 	 -- 
       Killstreaks Active, Sheen: Hot
       +15% faster firing speed
       On Hit: Gain up to +3 health
-      On Hit: 3s Mad Milked
+      On Hit: 3s of Mad Milked
 
       -66% damage penalty
       -25% clip size
 
-	 • C) (0$) Boston’s Arms ( On Hit: AoE overheal +6 | -1 HP Degen per second )
+	 • C) (0$) Boston’s Arms [ On Hit: AoE overheal +6 | -1 HP Degen per second ]
 	 	 -- 
       Killstreaks Active, Sheen: Isotope
       +15% faster firing speed
@@ -342,7 +342,7 @@ Secondary
       -1 health degenerated per sec
 
 3. Winger
- 	• A) (0$) Airborne Annihilator // ( Crit vs Airborne | -25% Fire Rate )
+ 	• A) (0$) Airborne Annihilator // [ Crit vs Airborne | -25% Fire Rate ]
 	 	 -- 
       Killstreaks Active, Sheen: Cool
       +15% damage bonus
@@ -352,7 +352,7 @@ Secondary
       -60% clip size
       -25% slpwer firing speed
 
-	 • B) (0$) Kinetic Dash // ( Minicrits if Airborne, Falling Stomp Immunity | No Double Jump )
+	 • B) (0$) Kinetic Dash // [ Minicrits if Airborne, Falling Stomp Immunity | No Double Jump ]
 	 	 -- 
       Killstreaks Active, Sheen: Hot
       +15% damage bonus
@@ -364,7 +364,7 @@ Secondary
       -60% clip size
       No double jump
 
-	 • C) (400$) Eagl Deagle // ( On Headshot: Massive Crit | -18% Clip Size, -25% Jump Height )
+	 • C) (400$) Eagl Deagle // [ On Headshot: Massive Crit | -18% Clip Size, -25% Jump Height ]
 	 	 -- 
       Killstreaks Active, Sheen: Isotope
       +15% damage bonus
@@ -375,71 +375,98 @@ Secondary
       No random Crits
 
 4. Bonk! Atomic Punch
- 	• A) (0$) Resilient Simmer // [ | ]
+ 	• A) (0$) Resilient Simmer // [ Full Heal, Crit Immunity, Speedboost | Cannot Double Jump ]
 	 	 -- 
-      Drink to become invulnerable for 8 seconds. Cannot attack during this time.
-      Damage absorbed will slow you when the effect ends.
+      Killstreaks Active, Sheen: Cool
+      Drink to be healed for 621, become crit immune, and speedboosted for 8 sec
+      No Double Jump
 
-	 • B) (0$) Spectral Fizz // [ | ]
+	 • B) (0$) Spectral Fizz // [ Temporary Invisibility | Self Marked ]
 	 	 -- 
-      Drink to become invulnerable for 8 seconds. Cannot attack during this time.
-      Damage absorbed will slow you when the effect ends.
+      Killstreaks Active, Sheen: Hot
+      Drink to become invisible for 8 sec
+      Damage taken will be minicrits until effect ends
 
-	 • C) (0$) Anchor! Punch // [ | ]
+	 • C) (0$) Anchor! Punch // [ Knockback Immunity, Stomp Bots | -10% Move Speed ]
 	 	 -- 
-      Drink to become invulnerable for 8 seconds. Cannot attack during this time.
-      Damage absorbed will slow you when the effect ends.
+      Killstreaks Active, Sheen: Isotope
+      Drink to become 100% immune to knockback for 8 sec
+      Deals increased falling damage to the player you land on
+      -10% slower move speed
 
 5. Crit-a-Cola
- 	• A) (0$) Resilient Simmer // [ | ]
+ 	• A) (0$) Comet Shards // [ Primary Pierces Resists | Blocks Medibeam Healing ]
 	 	 -- 
-      While effect is active: Each attack mini-crits and sets Marked-For-Death for 5 seconds.
+      Killstreaks Active, Sheen: Cool
+      Drink to deal piercing attack for 5 sec
+      Blocks most external healing until effect ends   
 
-	 • B) (0$) Spectral Fizz // [ | ]
+	 • B) (0$) Crimson Vint // [ Regen on Hit | -60 HP Bleed out ]
 	 	 -- 
-      While effect is active: Each attack mini-crits and sets Marked-For-Death for 5 seconds.
+      Killstreaks Active, Sheen: Hot
+      Drink to gain +35% inflicted damage as health for 5 sec
+      -12 health degenerated per sec until effect ends   
 
-	 • C) (0$) Anchor! Punch // [ | ]
+	 • C) (0$) Nuk-a-Cola // [ Full Crits | -25% Vulnerability ]
 	 	 -- 
-      While effect is active: Each attack mini-crits and sets Marked-For-Death for 5 seconds.
+      Killstreaks Active, Sheen: Isotope
+      Drink to deal critical-hits for 5 sec
+      +25% damage vulnerability
 
 6. Flying Guillotine
- 	• A) (0$) Resilient Simmer // [ | ]
+	 • 4.(250$) +25% Recharge Rate [ -50% Primary Ammo ]
+	 • 4.(300$) +25% Damage [ Will block other upgrades ]
+ 	 • A) (0$) Thermal Blade // [ Homing, Crit vs Slowed ]
 	 	 -- 
-      Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+      Killstreaks Active, Sheen: Hot
+      Throw at your enemies to make them bleed!
+      Projectile will chase after enemies
+      100% critical hit vs stunned players
+
       No random critical hits
 
-	 • B) (0$) Spectral Fizz // [ | ]
+	 • B) (0$) Reckoner // [ Marks Robots, Inflicts Afterburn ]
 	 	 -- 
-      Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+      Killstreaks Active, Sheen: Cool
+      Throw at your enemies to make them bleed!
+      On Hit: 8s of Marked-for-Death
+      On Hit: target is engulfed in flames
+
       No random critical hits
 
-	 • C) (0$) Anchor! Punch // [ | ]
+	 • C) (0$) Sharp Bolo // [ Bleed Faster and Longer ]
 	 	 -- 
-      Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+      Killstreaks Active, Sheen: Isotope
+      Throw at your enemies to make them bleed!
+      On Hit: Bleed for addit 8 sec
+      On Hit: +200% faster bleed
       No random critical hits
 
 7. Mad Milk
- 	• A) (0$) Resilient Simmer // [ | ]
+ 	• A) (0$) Rage Milk // [ +50% Duration | -100% Cooldowm, Recharges through damage ]
 	 	 -- 
-      Extinguishing teammates reduces cooldown by -20%
-      Players heal 60% of the damage done
-      to an enemy covered with milk.
-      Can be used to extinguish fires.
+      On Hit: Allies heal 60% of damage done upon damaging target
+      -100% increase in charge recharge rate
 
-	 • B) (0$) Spectral Fizz // [ | ]
+	 • B) (0$) Spell: Brick //
 	 	 -- 
-      Extinguishing teammates reduces cooldown by -20%
-      Players heal 60% of the damage done
-      to an enemy covered with milk.
-      Can be used to extinguish fires.
+      Attacks will launch a brick
+      On Hit: +300% damage bonus for next brick
+      Long distance hits cause mini-crits
+      No random critical hits
 
-	 • C) (0$) Anchor! Punch // [ | ]
+	 • C) (0$) Spell: Fireball //
 	 	 -- 
-      Extinguishing teammates reduces cooldown by -20%
-      Players heal 60% of the damage done
-      to an enemy covered with milk.
-      Can be used to extinguish fires.
+      Attacks will launch a fireball
+      +30% damage bonus vs players
+      -50% damage penalty vs giants
+      No random critical hits
+
+	 • D) (0$) Spell: MIRV Pumpkin Trap //
+	 	 -- 
+      Attacks will launch a mirv trap
+      -50% increase in charge recharge rate
+      No random critical hits
 
 //===============
 Melee
