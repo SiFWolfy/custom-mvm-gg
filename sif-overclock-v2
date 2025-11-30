@@ -311,10 +311,11 @@ Secondary
 	 	 -- 
 
 2. Pretty Boy’s Pocket Pistol
-	 • A) (0$) Bleak Ruffian [ On Hit: +9 HP, Fall Immunity | -20% Global Vulnerability ]
+	 • A) (0$) Bleak Ruffian [ +15 HP, On Hit: +9 HP, Fall Immunity | -20% Global Vulnerability ]
 	 	 -- 
       Killstreaks Active, Sheen: Cool
       +15% faster firing speed
+      +15 max health
       On Hit: Gain +12 health	
       Never takes falling damage
 
@@ -350,7 +351,7 @@ Secondary
       +100% Crits vs Airborne targets
 
       -60% clip size
-      -25% slpwer firing speed
+      -25% slower firing speed
 
 	 • B) (0$) Kinetic Dash // [ Minicrits if Airborne, Falling Stomp Immunity | No Double Jump ]
 	 	 -- 
@@ -470,7 +471,44 @@ Secondary
 
 //===============
 Melee
-1. Buh
+1. Bat
+ 	• A) (0$) Marks Robot [ -25 HP ]
+	• B) (0$) Marks Robot [ -25 HP ]
+	• C) 4.(400$) Damage Upgraade
+
+2. Holy Mackerel / Unarmed Combat
+ 	• A) (0$) Unholy Combat // [ 3rd Hit Crits, +300% Crit Mult | +24% Vulnerability ]
+	 	 -- 
+      +300% Crit damage bonus
+      Third successful punch in a row always crits
+      Getting hit by a fish has got to be humiliating.
+
+      +24% damage vulnerability
+
+	 • B) (0$) Betta Ro-Bat  // [ On Hit: +5 HP, +66% DMG  | Lose All Ammo ]
+	 	 --
+      +66% damage bonus
+      On Hit: Gain +5 health
+      Getting hit by a fish has got to be humiliating.
+
+      -99% primary ammo
+      -99% secondary ammo
+
+	 • C) (0$) Minnow Fluke // [ +500% DMG, Stun Flying Robots Downwards | +100% Fire Rate ]
+	 	 -- 
+      +500% damage bonus
+      On Hit: Stun 1 sec if enemy is at above eye level
+      Getting hit by a fish has got to be humiliating.
+
+      -140% slower firing speed
+
+3. Atomizezr
+4. Boston Basher
+5. Candy Cane
+6. Fan o' War
+7. Sandman
+8. Sun on a Stick
+9. Wrap Assassin
 
 TEMPLATE
  	• A) (0$) abababa // [ | ]
